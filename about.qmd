@@ -1,9 +1,46 @@
 ---
-title: "About"
+editor: source
 ---
 
-About this site
+::: columns
+::: {.column width="50%"}
+[I am always interested in talking about]{style="font-size: 2em; color: #fe019a;"}
 
-```{r}
-1 + 1
-```
+- researching how students collaborate in-class
+- fostering students' identity as a statistician
+- data feminism
+- alternative ways to assess students' learning
+- [R-Ladies](https://rladies.org/)
+- [RainbowR](https://rainbowr.org/)
+- Disney Land
+
+[over coffee]{style="font-size: 2em; color: #fe019a;"}
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="45%"}
+![](media/office-head-shot.jpg)
+:::
+:::
+
+----
+
+# Allison Theobold
+
+Dr. Allison Theobold is an Assistant Professor of Statistics at Cal Poly in beautiful San Luis Obispo, California. Allison received her doctorate in Statistics, with an emphasis in Statistics Education, from Montana State University. Allison’s work focuses on innovation in statistics and data science education, with an emphasis on equitable pedagogy and learning trajectories. Allison is also interested in exploring pedagogical approaches for enhancing retention of under-represented students in STEM, including creating inclusive discursive spaces and equitable group collaborations. Dr. Theobold is the 2025 Program Chair of the American Statistical Association’s Section on Statistical Computing and was the Chair of the Mentoring Program for the Section on Statistics and Data Science Education from 2023 to 2024. 
+
+Allison co-organizes the [Preparing to Teach Statistics and Data Science Workshop](https://preparingtoteach.org/), a one-day workshop which prepares current and recent graduate students for a future role as a statistics faculty member.
+
+
+- [Recent Publications](https://scholar.google.com/citations?user=qpWkZH4AAAAJ&hl=en)
+- [Download CV](media/cv-jan-7-2025.pdf)
+
+## Professional Honors & Awards
+
+Allison was selected as the 2022 American Statistical Association’s [Pride Scholarship recipient](https://www.amstat.org/2022-pride-scholarship-goes-to-three-diversity-champions). Allison was also selected as an ASA StatsForward Fellow for the inagural 2024 cohort.
+
+Allison has contributed to integrating equity into the statistics education by being part of the GAISE revision committee, and the Bill & Melinda Gates Statistics High School Pathways curricular team. 
+
