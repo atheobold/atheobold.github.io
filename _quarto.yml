@@ -4,12 +4,32 @@ project:
   
 website:
   title: "atheobold.github.io"
+  site-url: https://atheobold.github.io/
+  favicon: images/cactus.png
   navbar:
-    left:
+    title: false
+    logo: images/logo.png
+    logo-alt: "The initials 'AST' written in pink text surrounded by a pink box."
+    right:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
+      - text: get in touch!
+        menu:
+          # - icon: linkedin
+          #   text: LinkedIn
+          #   href: https://www.linkedin.com/in/samanthacsik/
+          #   target: _blank
+          - icon: envelope
+            text: email
+            href: mailto:atheobol@calpoly.edu
+      - href: media/cv-jan-7-2025.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
+        text: CV
+        target: _blank # opens link (or page) in a new browser tab
+      - icon: github # add icons as navbar buttons
+        href: https://github.com/atheobold
+        target: _blank
     # - href: writing.qmd
     #   text: Writing
     # - href: teaching.qmd
@@ -18,6 +38,10 @@ website:
     #   text: Talks
     # - href: lab.qmd
     #   text: Lab
+  page-footer:
+    background: light # or `dark`
+    left: Copyright 2025, Allison Theobold
+    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/atheobold/atheobold.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:
@@ -27,6 +51,7 @@ format:
     css: styles.css
     toc: true
     page-layout: full
-
+    sidebar: false
+    
 editor: visual
 

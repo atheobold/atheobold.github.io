@@ -1,6 +1,7 @@
 ---
 image: media/full-body-shot.jpg
 toc: false
+editor: source
 about: 
   template: jolla
   image-shape: round
@@ -13,12 +14,5 @@ about:
     - text: Email
       href: mailto:atheobold@calpoly.edu
 ---
-        
-Hi there! I'm Allison Theobold. I'm an Assistant Professor in the Department of
-Statistics at Cal Poly in San Luis Obispo, California. I love teaching any and 
-all computing courses, especially our first computing course. I love R with all 
-my heart, but am currently learning to like Python. As a researcher, I focus on 
-ways whe can innovate our statistics and data science classrooms to be more 
-equitable and inclusive of a diverse body of learners. Outside of work, you can 
-find me running and biking on the trails in San Luis Obispo, watching women’s
-basketball, cooking, and enjoying a good cup of coffee. 
+
+Hi there! I'm Allison Theobold. I'm an Assistant Professor in the Department of Statistics at Cal Poly in San Luis Obispo, California. I love teaching any and all computing courses, especially our first computing course. I love R with all my heart, but am currently learning to like Python. As a researcher, I focus on ways whe can innovate our statistics and data science classrooms to be more equitable and inclusive of a diverse body of learners. Outside of work, you can find me running and biking on the trails in San Luis Obispo, watching women’s basketball, cooking, and enjoying a good cup of coffee.
