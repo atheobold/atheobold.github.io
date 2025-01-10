@@ -1,0 +1,45 @@
+---
+title: "Coding Code: Qualitative Methods for Investigating Data Science Skills"
+description: |
+  a talk about our paper on a methodology for qualitatively analyzing the code students produce
+author:
+  - name: Allison Theobold
+    url: https://atheobold.github.io/
+    orcid: 0000-0002-8092-6182
+    affiliation: Cal Poly, SLO
+    affiliation-url: https://statistics.calpoly.edu/allison-theobold
+  - name: Megan Wickstrom
+    orcid: 0000-0002-0557-0112
+    affiliation: Montana State University
+    affiliation-url: https://math.montana.edu/directory/faculty/1746398/megan-wickstrom
+  - name: Stacey Hancock
+    orcid: 0000-0002-8540-2492
+    affiliation: Montana State University 
+    affiliation-url: https://www.math.montana.edu/directory/faculty/1941032/stacey-hancock
+date: 2024-01-31
+slug: jsdsewebinar2024
+categories: [qualitative research, data science education, R]
+image: coding-code.jpg
+---
+
+# Abstract
+
+Despite the elevated importance of Data Science in Statistics, there exists limited research investigating how students learn the computing concepts and skills necessary for carrying out data science tasks. Computer Science educators have investigated how students debug their own code and how students reason through foreign code. While these studies illuminate different aspects of students’ programming behavior or conceptual understanding, a method has yet to be employed that can shed light on students’ learning processes. This type of inquiry necessitates qualitative methods, which allow for a holistic description of the skills a student uses throughout the computing code they produce, the organization of these descriptions into themes, and a comparison of the emergent themes across students or across time. In this article we share how to conceptualize and carry out the qualitative coding process with students’ computing code. Drawing on the Block Model to frame our analysis, we explore two types of research questions which could be posed about students’ learning. Supplementary materials for this article are available online.
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbfAIKe7vijS14tK_5XFb8cJ-WvxCMSBKeu5XJGR0FsrNAQM6x5BTZg7pyCZs7fENrybFqAuRt7gqv/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</center>
+
+<br>
+
+
+
+::: center-text
+[{{< fa tv title="A television screen" >}} slides](https://docs.google.com/presentation/d/1kZgnvc5whhFd-zHjixvYktAgy1BM-pIRJEjK79vopNs/edit?usp=sharing){.btn role="button" target="_blank"} [{{< fa pencil title="A pencil" >}} published paper](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2277847){.btn role="button" target="_blank"}
+:::
+
+# Audience
+
+This presentation was presented for the *Journal of Statistics and Data Science Education* [January webinar](https://www.causeweb.org/cause/webinar/jsdse/2024-01).  

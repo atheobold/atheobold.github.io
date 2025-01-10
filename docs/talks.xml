@@ -10,7 +10,41 @@
 <atom:link href="https://atheobold.github.io/talks.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Mon, 10 Jun 2024 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Aug 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Assessment at Scale – A Discussion</title>
+  <dc:creator>Allison Theobold</dc:creator>
+  <link>https://atheobold.github.io/talks/2024-08-08-assessment-at-scale-discussion/</link>
+  <description><![CDATA[ 
+
+
+
+
+<center>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLiUEi5Z1tCtGJ1uPmzfzrL_bfCyJWrDT_GLngaigzc3IfabySnCxrPyQIEZ3thC8mu6VvuwYuoz2j/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
+</center>
+<p><br></p>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<div class="center-text">
+<p><a href="https://docs.google.com/presentation/d/1ILC_Vp8syhwXCkHYYduW3Jcuh7wP5DIAG-4uxEV-dB8/edit?usp=sharing" class="btn" target="_blank"><i class="fa-solid fa-tv" title="A television screen" aria-label="tv"></i> slides</a></p>
+</div>
+</section>
+<section id="audience" class="level1">
+<h1>Audience</h1>
+<p>This presentation was presented at the <a href="https://iticse.acm.org/2023/">2023 International Conference on Innovation and Technology in Computer Science Education (ITiCSE)</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>equitable pedagogy</category>
+  <category>assessment</category>
+  <guid>https://atheobold.github.io/talks/2024-08-08-assessment-at-scale-discussion/</guid>
+  <pubDate>Sat, 10 Aug 2024 07:00:00 GMT</pubDate>
+  <media:content url="https://atheobold.github.io/talks/2024-08-08-assessment-at-scale-discussion/voice-megaphone.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>DecodeR: Gameful Activities for Introductory Programming</title>
   <dc:creator>Kelly Bodwin</dc:creator>
@@ -86,6 +120,7 @@ Access, Identity, and Power in Alternative Grading
 
  ]]></description>
   <category>equitable pedagogy</category>
+  <category>assessment</category>
   <guid>https://atheobold.github.io/talks/2024-05-13-beyond-achievement/</guid>
   <pubDate>Mon, 13 May 2024 07:00:00 GMT</pubDate>
   <media:content url="https://atheobold.github.io/talks/2024-05-13-beyond-achievement/axis-gutierrez.jpg" medium="image" type="image/jpeg"/>
@@ -120,6 +155,44 @@ Access, Identity, and Power in Alternative Grading
   <guid>https://atheobold.github.io/talks/2024-04-30-lgbt-pedagogy/</guid>
   <pubDate>Tue, 30 Apr 2024 07:00:00 GMT</pubDate>
   <media:content url="https://atheobold.github.io/talks/2024-04-30-lgbt-pedagogy/pride-flag.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Coding Code: Qualitative Methods for Investigating Data Science Skills</title>
+  <dc:creator>Allison Theobold</dc:creator>
+  <dc:creator>Megan Wickstrom</dc:creator>
+  <dc:creator>Stacey Hancock</dc:creator>
+  <link>https://atheobold.github.io/talks/2024-01-31-jsdse-webinar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>Despite the elevated importance of Data Science in Statistics, there exists limited research investigating how students learn the computing concepts and skills necessary for carrying out data science tasks. Computer Science educators have investigated how students debug their own code and how students reason through foreign code. While these studies illuminate different aspects of students’ programming behavior or conceptual understanding, a method has yet to be employed that can shed light on students’ learning processes. This type of inquiry necessitates qualitative methods, which allow for a holistic description of the skills a student uses throughout the computing code they produce, the organization of these descriptions into themes, and a comparison of the emergent themes across students or across time. In this article we share how to conceptualize and carry out the qualitative coding process with students’ computing code. Drawing on the Block Model to frame our analysis, we explore two types of research questions which could be posed about students’ learning. Supplementary materials for this article are available online.</p>
+<center>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbfAIKe7vijS14tK_5XFb8cJ-WvxCMSBKeu5XJGR0FsrNAQM6x5BTZg7pyCZs7fENrybFqAuRt7gqv/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
+</center>
+<p><br></p>
+<div class="center-text">
+<p><a href="https://docs.google.com/presentation/d/1kZgnvc5whhFd-zHjixvYktAgy1BM-pIRJEjK79vopNs/edit?usp=sharing" class="btn" target="_blank"><i class="fa-solid fa-tv" title="A television screen" aria-label="tv"></i> slides</a> <a href="https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2277847" class="btn" target="_blank"><i class="fa-solid fa-pencil" title="A pencil" aria-label="pencil"></i> published paper</a></p>
+</div>
+</section>
+<section id="audience" class="level1">
+<h1>Audience</h1>
+<p>This presentation was presented for the <em>Journal of Statistics and Data Science Education</em> <a href="https://www.causeweb.org/cause/webinar/jsdse/2024-01">January webinar</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>qualitative research</category>
+  <category>data science education</category>
+  <category>R</category>
+  <guid>https://atheobold.github.io/talks/2024-01-31-jsdse-webinar/</guid>
+  <pubDate>Wed, 31 Jan 2024 08:00:00 GMT</pubDate>
+  <media:content url="https://atheobold.github.io/talks/2024-01-31-jsdse-webinar/coding-code.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Evaluating Students’ Code as a Learning Product</title>
