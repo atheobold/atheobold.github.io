@@ -6,12 +6,12 @@ author:
   - name: Kelly Bodwin
     url: https://www.kelly-bodwin.com/
     affiliation: Cal Poly, SLO
-    affiliation-url: https://atheobold.github.io/
+    affiliation-url: https://statistics.calpoly.edu/Kelly-Bodwin
   - name: Allison Theobold
-    url: https://samanthacsik.github.io/
+    url: https://atheobold.github.io/
     orcid: 0000-0002-8092-6182
     affiliation: Cal Poly, SLO
-    affiliation-url: https://atheobold.github.io/
+    affiliation-url: https://statistics.calpoly.edu/allison-theobold
 date: 2024-06-10
 slug: ecots2024decoder
 categories: [R]
