@@ -1,12 +1,13 @@
 [
   {
-    "listing": "/courses.html",
-    "items": []
-  },
-  {
     "listing": "/talks.html",
     "items": [
-      "/talks/2024-06-10-decode-r/index.html"
+      "/talks/2024-06-10-decode-r/index.html",
+      "/talks/2024-01-11-evaluating-code-communication/index.html"
     ]
+  },
+  {
+    "listing": "/courses.html",
+    "items": []
   }
 ]

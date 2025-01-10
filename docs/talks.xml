@@ -48,5 +48,40 @@
   <pubDate>Mon, 10 Jun 2024 07:00:00 GMT</pubDate>
   <media:content url="https://atheobold.github.io/talks/2024-06-10-decode-r/decode-r.jpeg" medium="image" type="image/jpeg"/>
 </item>
+<item>
+  <title>Evaluating Students’ Code as a Learning Product</title>
+  <dc:creator>Allison Theobold</dc:creator>
+  <link>https://atheobold.github.io/talks/2024-01-11-evaluating-code-communication/</link>
+  <description><![CDATA[ 
+
+
+
+
+<center>
+<iframe class="slide-deck" src="https://atheobold.github.io/imsi-code-communication/code_communication.html" title="Evaluating Students’ Code as a Learning Product" width="750px," height="550px">
+</iframe>
+</center>
+<p><br></p>
+<div class="center-text">
+<p><a href="https://atheobold.github.io/imsi-code-communication/code_communication.html" class="btn" target="_blank"><i class="fa-solid fa-tv" title="A television screen" aria-label="tv"></i> slides</a> <a href="https://github.com/atheobold/imsi-code-communication" class="btn" target="_blank"><i class="fa-brands fa-github" title="Octocat, the GitHub logo" aria-label="github"></i> source code</a></p>
+</div>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>Traditionally, statistical communication has focused on students’ writing, specifically how they communicate statistical ideas through written channels. While often overlooked, the code students produce during their data analyses also communicates important information about their thinking and learning. In this presentation I will outline a framework for analyzing students’ code as a relic of their learning. We will then explore four different ways this framework could be used to analyze students’ code, with an eye toward the understanding it communicates.</p>
+</section>
+<section id="audience" class="level1">
+<h1>Audience</h1>
+<p>This presentation was part of the <a href="https://www.imsi.institute/activities/teaching-and-evaluating-data-communication-at-scale/">IMSI Conference on Teaching and Evaluating Communication at Scale</a>, and is targeted toward educators who are interested in evaluating students’ code as a product of their learning.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>R</category>
+  <category>qualitative analysis</category>
+  <guid>https://atheobold.github.io/talks/2024-01-11-evaluating-code-communication/</guid>
+  <pubDate>Thu, 11 Jan 2024 08:00:00 GMT</pubDate>
+  <media:content url="https://atheobold.github.io/talks/2024-01-11-evaluating-code-communication/code-speak.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
 </channel>
 </rss>
