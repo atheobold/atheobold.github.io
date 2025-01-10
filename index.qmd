@@ -18,7 +18,7 @@ about:
 
 ::: {#bio}
 ::: {.cursive}
-#### Hello there! I'm Allison Theobold. Professionally, I love **teaching data science** skills and learning how to make my classroom **inclusive of a diverse set of learners**. Outside of work, I love being outside, cooking, watching womens basketball, traveling, and enjoying a good cup of coffee. Poke around to learn a bit more about me and my work! 
+#### Hello there! I'm Allison Theobold. Professionally, I love **teaching data science** skills and learning how to make my classroom **inclusive of a diverse set of learners**. Outside of work, I love being outside, cooking, watching womens basketball, traveling, and enjoying a good cup of coffee. Poke around to learn a bit more about me and my work!
 :::
 :::
 
