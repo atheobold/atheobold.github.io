@@ -18,7 +18,7 @@ author:
     affiliation-url: https://statistics.calpoly.edu/allison-theobold
 date: 2024-05-13
 slug: jsm2023
-categories: [equitable pedagogy]
+categories: [equitable pedagogy, assessment]
 image: axis-gutierrez.jpg
 ---
 
