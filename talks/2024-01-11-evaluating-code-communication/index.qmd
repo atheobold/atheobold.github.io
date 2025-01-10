@@ -4,10 +4,10 @@ description: |
   a talk about qualitatively analyzing students' code as a product of their learning
 author:
   - name: Allison Theobold
-    url: https://samanthacsik.github.io/
+    url: https://atheobold.github.io/
     orcid: 0000-0002-8092-6182
     affiliation: Cal Poly, SLO
-    affiliation-url: https://atheobold.github.io/
+    affiliation-url: https://statistics.calpoly.edu/allison-theobold
 date: 2024-01-11
 slug: imsi2024
 categories: [R, qualitative analysis]
@@ -34,4 +34,4 @@ Traditionally, statistical communication has focused on students’ writing, spe
 
 # Audience
 
-This presentation was part of the [IMSI Conference on Teaching and Evaluating Communication at Scale](https://www.imsi.institute/activities/teaching-and-evaluating-data-communication-at-scale/), and is targeted toward educators who are interested in evaluating students' code as a product of their learning. 
+This presentation was part of the [IMSI Conference on Teaching and Evaluating Communication at Scale](https://www.imsi.institute/activities/teaching-and-evaluating-data-communication-at-scale/), and is targeted toward educators who are interested in evaluating students' code as a product of their learning.
