@@ -22,7 +22,7 @@ editor: source
 :::
 
 ::: {.column width="45%"}
-![](media/office-head-shot.jpg)
+![](media/office-head-shot.jpg){width=250}
 :::
 :::
 
@@ -32,7 +32,7 @@ editor: source
 
 Dr. Allison Theobold is an Assistant Professor of Statistics at Cal Poly in beautiful San Luis Obispo, California. Allison received her doctorate in Statistics, with an emphasis in Statistics Education, from Montana State University. Allison’s work focuses on innovation in statistics and data science education, with an emphasis on equitable pedagogy and learning trajectories. Allison is also interested in exploring pedagogical approaches for enhancing retention of under-represented students in STEM, including creating inclusive discursive spaces and equitable group collaborations. Dr. Theobold is the 2025 Program Chair of the American Statistical Association’s Section on Statistical Computing and was the Chair of the Mentoring Program for the Section on Statistics and Data Science Education from 2023 to 2024. 
 
-Allison co-organizes the [Preparing to Teach Statistics and Data Science Workshop](https://preparingtoteach.org/), a one-day workshop which prepares current and recent graduate students for a future role as a statistics faculty member.
+Allison also co-organizes the [Preparing to Teach Statistics and Data Science Workshop](https://preparingtoteach.org/), a one-day workshop which prepares current and recent graduate students for a future role as a statistics faculty member.
 
 
 - [Recent Publications](https://scholar.google.com/citations?user=qpWkZH4AAAAJ&hl=en)
