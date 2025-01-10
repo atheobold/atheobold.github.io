@@ -25,15 +25,17 @@
 </iframe>
 </center>
 <p><br></p>
-<section id="abstract" class="level1">
-<h1>Abstract</h1>
 <div class="center-text">
 <p><a href="https://docs.google.com/presentation/d/1ILC_Vp8syhwXCkHYYduW3Jcuh7wP5DIAG-4uxEV-dB8/edit?usp=sharing" class="btn" target="_blank"><i class="fa-solid fa-tv" title="A television screen" aria-label="tv"></i> slides</a></p>
 </div>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>Various data technologies and automated approaches can assist with assessment, but care is needed to develop tools and practices that value and support the human learning experience, at the same time as optimising for efficiency and accuracy. Tools are also needed that support teachers to make consistent and valid judgments across very large quantities of responses.</p>
+<p>The talks in this session present in research and practice within the emerging area of large scale automated-assisted assessment. Each speaker discusses their development of different innovative assessment practices and the opportunities, challenges, and rewards of using automation with respect to teaching and research. This presentation was the “discussion” coming at the end of the session, following the presentations by each of the four presenters. As such, the presentation focuses on summarizing key themes found within and between the talks, and situates these themes within the broader context of what it means to be a teacher.</p>
 </section>
 <section id="audience" class="level1">
 <h1>Audience</h1>
-<p>This presentation was presented at the <a href="https://iticse.acm.org/2023/">2023 International Conference on Innovation and Technology in Computer Science Education (ITiCSE)</a>.</p>
+<p>This presentation was presented at the <a href="https://ww2.amstat.org/meetings/jsm/2024/index.cfm">2024 Joint Statistical Meetings</a>.</p>
 
 
 </section>

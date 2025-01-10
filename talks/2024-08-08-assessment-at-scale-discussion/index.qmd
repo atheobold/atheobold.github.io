@@ -1,0 +1,38 @@
+---
+title: "Assessment at Scale -- A Discussion"
+description: |
+  a discussion about tools for assessing students' learning at scale, places where the tools help instructors express their identity and places where we should be aware of how these assessments could miss certain pieces of information
+author:
+  - name: Allison Theobold
+    url: https://atheobold.github.io/
+    orcid: 0000-0002-8092-6182
+    affiliation: Cal Poly, SLO
+    affiliation-url: https://statistics.calpoly.edu/allison-theobold
+date: 2024-08-10
+slug: jsm2024
+categories: [equitable pedagogy, assessment]
+image: voice-megaphone.png
+---
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLiUEi5Z1tCtGJ1uPmzfzrL_bfCyJWrDT_GLngaigzc3IfabySnCxrPyQIEZ3thC8mu6VvuwYuoz2j/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</center>
+
+<br>
+
+::: center-text
+[{{< fa tv title="A television screen" >}} slides](https://docs.google.com/presentation/d/1ILC_Vp8syhwXCkHYYduW3Jcuh7wP5DIAG-4uxEV-dB8/edit?usp=sharing){.btn role="button" target="_blank"}
+:::
+
+# Abstract
+
+Various data technologies and automated approaches can assist with assessment, but care is needed to develop tools and practices that value and support the human learning experience, at the same time as optimising for efficiency and accuracy. Tools are also needed that support teachers to make consistent and valid judgments across very large quantities of responses. 
+
+The talks in this session present in research and practice within the emerging area of large scale automated-assisted assessment. Each speaker discusses their development of different innovative assessment practices and the opportunities, challenges, and rewards of using automation with respect to teaching and research. This presentation was the "discussion" coming at the end of the session, following the presentations by each of the four presenters. As such, the presentation focuses on summarizing key themes found within and between the talks, and situates these themes within the broader context of what it means to be a teacher. 
+
+# Audience
+
+This presentation was presented at the [2024 Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2024/index.cfm). 
+
