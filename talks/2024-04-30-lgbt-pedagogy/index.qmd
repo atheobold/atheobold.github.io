@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Pedagogical Choices with an Eye Toward LGBTQ+ Students"
 description: |
-  a talk about 
+  a blog post about evaluating curricular and pedagogical choices that impact LGBTQ+ students 
 author:
   - name: Zoe Rehnberg
     url: https://zoerehnberg.github.io/
@@ -14,7 +14,7 @@ author:
     affiliation-url: https://statistics.calpoly.edu/allison-theobold
 date: 2024-04-30
 slug: ecots2024decoder
-categories: [R]
+categories: [lgbtq, equitable pedagogy, inclusion]
 image: pride-flag.jpg
 ---
 
