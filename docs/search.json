@@ -21,11 +21,18 @@
     "text": "slides  source code\n\n\nAbstract\nTraditionally, statistical communication has focused on students’ writing, specifically how they communicate statistical ideas through written channels. While often overlooked, the code students produce during their data analyses also communicates important information about their thinking and learning. In this presentation I will outline a framework for analyzing students’ code as a relic of their learning. We will then explore four different ways this framework could be used to analyze students’ code, with an eye toward the understanding it communicates.\n\n\nAudience\nThis presentation was part of the IMSI Conference on Teaching and Evaluating Communication at Scale, and is targeted toward educators who are interested in evaluating students’ code as a product of their learning."
   },
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "talks & workshops",
+    "objectID": "talks/2024-04-30-lgbt-pedagogy/index.html",
+    "href": "talks/2024-04-30-lgbt-pedagogy/index.html",
+    "title": "Evaluating Pedagogical Choices with an Eye Toward LGBTQ+ Students",
     "section": "",
-    "text": "DecodeR: Gameful Activities for Introductory Programming\n\n\n\nR\n\n\n\na talk about gamful activities where students solve puzzles while learning to program in R\n\n\n\nKelly Bodwin, Allison Theobold\n\n\nJun 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeyond Achievement\n\n\n\nequitable pedagogy\n\n\n\na talk about equity in assessing students’ learning, specifically attending to issues of access, identity, and power in assessment\n\n\n\nKelsey Grinde, Leslie Myint, Allison Theobold\n\n\nMay 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluating Pedagogical Choices with an Eye Toward LGBTQ+ Students\n\n\n\nR\n\n\n\na talk about\n\n\n\nZoe Rehnberg, Allison Theobold\n\n\nApr 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluating Students’ Code as a Learning Product\n\n\n\nR\n\n\nqualitative analysis\n\n\n\na talk about qualitatively analyzing students’ code as a product of their learning\n\n\n\nAllison Theobold\n\n\nJan 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhose voice can you hear?\n\n\n\nequitable pedagogy\n\n\n\na talk about\n\n\n\nAllison Theobold\n\n\nAug 8, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Abstract\nIn this post, we apply the three-question design decision framework outlined by Dr. Nicole Dalzell (in the previous blog post) to evaluate curricular and pedagogical choices that specifically impact lesbian, gay, bisexual, transgender, and queer (LGBTQ+) individuals in the classroom.\n\n\n\n\n\n\nAudience\nStatTLC acts as a virtual space to share ideas about the teaching and learning of all areas of statistics at the post-secondary levels."
+  },
+  {
+    "objectID": "talks/2024-05-13-beyond-achievement/index.html",
+    "href": "talks/2024-05-13-beyond-achievement/index.html",
+    "title": "Beyond Achievement",
+    "section": "",
+    "text": "Beyond Achievement by Kelsey Grinde, Leslie Myint, and Allison Theobold\n\n\nAccess, Identity, and Power in Alternative Grading\n\nRead on Substack\n\n\n\n\n\nAbstract\nThis post stems from ideas shared in a 2023 Joint Statistical Meetings session, “Power in the Classroom: From Helping Students Play the Game to Helping Students Change the Game”, where all three of us presented.\n\n\nAudience\nThis post was written for Grading for Growth, a newsletter / blog about the emerging revolution in grading."
   },
   {
     "objectID": "courses.html",
@@ -33,6 +40,20 @@
     "title": "courses",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "talks & workshops",
+    "section": "",
+    "text": "DecodeR: Gameful Activities for Introductory Programming\n\n\n\nR\n\n\n\na talk about gamful activities where students solve puzzles while learning to program in R\n\n\n\nKelly Bodwin, Allison Theobold\n\n\nJun 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeyond Achievement\n\n\n\nequitable pedagogy\n\n\n\na talk about equity in assessing students’ learning, specifically attending to issues of access, identity, and power in assessment\n\n\n\nKelsey Grinde, Leslie Myint, Allison Theobold\n\n\nMay 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluating Pedagogical Choices with an Eye Toward LGBTQ+ Students\n\n\n\nR\n\n\n\na talk about\n\n\n\nZoe Rehnberg, Allison Theobold\n\n\nApr 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluating Students’ Code as a Learning Product\n\n\n\nR\n\n\nqualitative analysis\n\n\n\na talk about qualitatively analyzing students’ code as a product of their learning\n\n\n\nAllison Theobold\n\n\nJan 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhose voice can you hear?\n\n\n\nequitable pedagogy\n\n\n\na talk about\n\n\n\nAllison Theobold\n\n\nAug 8, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/2023-08-08-voice-in-classroom/index.html",
+    "href": "talks/2023-08-08-voice-in-classroom/index.html",
+    "title": "Whose voice can you hear?",
+    "section": "",
+    "text": "slides\n\n\nAbstract\nOver the last few years, diversity, equity, and inclusion (DEI) has become a common topic of conversation in education. While many of these conversations revolve around “social justice” topics, we view DEI as a tool to inspect issues of power in the classroom. Specifically, we stand behind Gutierrez (2002) and declare that ultimately equity is about the distribution of power.\nIn this invited session, we dig into four critical areas where issues of equity manifest in the classroom: access, achievement, identity, and power. Access and achievement form the “dominant axis,” which focuses on preparing students to “play the game”—preparing them to participate economically in society. Identity and power form the “critical axis,” which focuses on building critical citizens so students can “change the game.” Each speaker provides insight into how they consider issues related to a specific dimension of equity in their classroom and offers strategies for dismantling inequities in the classroom that put power in student’s hands.\n\n\nAudience\nThis presentation was presented at the 2023 Joint Statistical Meetings, as part of a session on four ways educators can view equity in their classroom. There are two other incredible presentations as part of this session—Access as the intersection of resources and practices by Dr. Leslie Myint and Rethinking grading systems in intro and advanced statistics courses by Dr. Kelsey Grinde."
   },
   {
     "objectID": "talks/2024-06-10-decode-r/index.html",
@@ -47,26 +68,5 @@
     "title": "atheobold.github.io",
     "section": "",
     "text": "Hello there! I’m Allison Theobold. Professionally, I love teaching data science skills and learning how to make my classroom inclusive of a diverse set of learners. Outside of work, I love being outside, cooking, watching womens basketball, traveling, and enjoying a good cup of coffee. Poke around to learn a bit more about me and my work!"
-  },
-  {
-    "objectID": "talks/2023-08-08-voice-in-classroom/index.html",
-    "href": "talks/2023-08-08-voice-in-classroom/index.html",
-    "title": "Whose voice can you hear?",
-    "section": "",
-    "text": "slides\n\n\nAbstract\nOver the last few years, diversity, equity, and inclusion (DEI) has become a common topic of conversation in education. While many of these conversations revolve around “social justice” topics, we view DEI as a tool to inspect issues of power in the classroom. Specifically, we stand behind Gutierrez (2002) and declare that ultimately equity is about the distribution of power.\nIn this invited session, we dig into four critical areas where issues of equity manifest in the classroom: access, achievement, identity, and power. Access and achievement form the “dominant axis,” which focuses on preparing students to “play the game”—preparing them to participate economically in society. Identity and power form the “critical axis,” which focuses on building critical citizens so students can “change the game.” Each speaker provides insight into how they consider issues related to a specific dimension of equity in their classroom and offers strategies for dismantling inequities in the classroom that put power in student’s hands.\n\n\nAudience\nThis presentation was presented at the 2023 Joint Statistical Meetings, as part of a session on four ways educators can view equity in their classroom. There are two other incredible presentations as part of this session—Access as the intersection of resources and practices by Dr. Leslie Myint and Rethinking grading systems in intro and advanced statistics courses by Dr. Kelsey Grinde."
-  },
-  {
-    "objectID": "talks/2024-05-13-beyond-achievement/index.html",
-    "href": "talks/2024-05-13-beyond-achievement/index.html",
-    "title": "Beyond Achievement",
-    "section": "",
-    "text": "Beyond Achievement by Kelsey Grinde, Leslie Myint, and Allison Theobold\n\n\nAccess, Identity, and Power in Alternative Grading\n\nRead on Substack\n\n\n\n\n\nAbstract\nThis post stems from ideas shared in a 2023 Joint Statistical Meetings session, “Power in the Classroom: From Helping Students Play the Game to Helping Students Change the Game”, where all three of us presented.\n\n\nAudience\nThis post was written for Grading for Growth, a newsletter / blog about the emerging revolution in grading."
-  },
-  {
-    "objectID": "talks/2024-04-30-lgbt-pedagogy/index.html",
-    "href": "talks/2024-04-30-lgbt-pedagogy/index.html",
-    "title": "Evaluating Pedagogical Choices with an Eye Toward LGBTQ+ Students",
-    "section": "",
-    "text": "Abstract\nIn this post, we apply the three-question design decision framework outlined by Dr. Nicole Dalzell (in the previous blog post) to evaluate curricular and pedagogical choices that specifically impact lesbian, gay, bisexual, transgender, and queer (LGBTQ+) individuals in the classroom.\n\n\n\n\n\n\nAudience\nStatTLC acts as a virtual space to share ideas about the teaching and learning of all areas of statistics at the post-secondary levels."
   }
 ]
