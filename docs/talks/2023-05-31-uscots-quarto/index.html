@@ -6,11 +6,13 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Emily Robinson">
 <meta name="author" content="Allison Theobold">
-<meta name="dcterms.date" content="2023-07-11">
-<meta name="description" content="a talk about using ungrading in an introductory data science course">
+<meta name="author" content="Allison Theobold">
+<meta name="dcterms.date" content="2023-05-31">
+<meta name="description" content="materials for a workshop on creating documents, presentations, and websites with Quarto">
 
-<title>Human Centered Data Science – atheobold.github.io</title>
+<title>W04: Reproducible documents, presentations, and websites with Quarto – atheobold.github.io</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -159,29 +161,49 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Human Centered Data Science</h1>
+<h1 class="title">W04: Reproducible documents, presentations, and websites with Quarto</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">equitable pedagogy</div>
-    <div class="quarto-category">data science education</div>
+    <div class="quarto-category">R</div>
+    <div class="quarto-category">Quarto</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    <p>a talk about using ungrading in an introductory data science course</p>
+    <p>materials for a workshop on creating documents, presentations, and websites with Quarto</p>
   </div>
 </div>
 
 <div class="quarto-title-meta-author column-page-left">
-  <div class="quarto-title-meta-heading">Author</div>
-  <div class="quarto-title-meta-heading">Affiliation</div>
+  <div class="quarto-title-meta-heading">Authors</div>
+  <div class="quarto-title-meta-heading">Affiliations</div>
   
+    <div class="quarto-title-meta-contents">
+    <p class="author"><a href="https://www.emilyarobinson.com/">Emily Robinson</a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            <a href="https://statistics.calpoly.edu/emily-robinson">
+            Cal Poly, SLO
+            </a>
+          </p>
+      </div>
     <div class="quarto-title-meta-contents">
     <p class="author"><a href="https://atheobold.github.io/">Allison Theobold</a> <a href="https://orcid.org/0000-0002-8092-6182" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
             <a href="https://statistics.calpoly.edu/allison-theobold">
+            Cal Poly, SLO
+            </a>
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author"><a href="https://x.com/hglanz">Allison Theobold</a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            <a href="https://statistics.calpoly.edu/hunter-glanz">
             Cal Poly, SLO
             </a>
           </p>
@@ -194,7 +216,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">July 11, 2023</p>
+      <p class="date">May 31, 2023</p>
     </div>
   </div>
   
@@ -206,21 +228,20 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<center>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROsiUN5AAYAF09a-NJh2XeJvJ1yHn6Tk8oHicdLBGriD78Xx7DjS2IlIAGZduBuajdeSKrybG5LwQ1/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="750px," height="550px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
-</iframe>
-</center>
-<p><br></p>
 <section id="abstract" class="level1">
 <h1>Abstract</h1>
-<p>The COVID-19 pandemic caused the flaws of traditional grading systems to become even more apparent. In response, a growing number of educators are transitioning their classrooms to focus on alternative methods of assessment. These subversive methods promote more equitable assessments, as they provide a more accurate picture of what a student has learned, cultivate students’ intrinsic motivation, and do not privilege students from certain backgrounds. This article details how alternative grading, specifically “ungrading,” was integrated into an introductory data science course. I detail how the course components align with the principles of alternative grading, students’ responses to the course structure, and the lessons I learned along the way. Finally, I close with a discussion of how infusing alternative methods of assessment into the classroom stands to cultivate the diversity continually lacking in computer science and data science.</p>
+<p>Quarto is the next generation of R Markdown for publishing, including dynamic and static documents and multi-lingual programming language support. With Quarto, you can create documents, books, presentations, websites, or other online resources. The workshop is comprised of three modules. Module 1 will introduce you to Quarto documents, for both student and instructor use. We will demonstrate how we use Quarto documents and RStudio’s Visual Editor to introduce students to reproducible workflows. We will also demonstrate how Quarto documents can be used to create and distribute teaching resources. Modules 2 and 3 will extend the use of Quarto to create teaching resources, outlining how Quarto can be used to create course slides and course websites. We will conclude with tips on how to make your materials publicly available to share with students and other educators.</p>
+<center>
+<iframe width="780" height="500" src="https://atheobold.github.io/uscots-quarto/" title="USCOTS 2023 Workshop on Quarto"></iframe>
+</center>
+<p><br></p>
 <div class="center-text">
-<p><a href="https://docs.google.com/presentation/d/1kZgnvc5whhFd-zHjixvYktAgy1BM-pIRJEjK79vopNs/edit?usp=sharing" class="btn" role="button" target="_blank"><i class="fa-solid fa-tv" title="A television screen" aria-label="tv"></i> slides</a> <a href="https://doi.org/10.1145/3587102.3588816" class="btn" role="button" target="_blank"><i class="fa-solid fa-paper" title="A written paper" aria-label="paper"></i> slides</a></p>
+<p><a href="https://atheobold.github.io/uscots-quarto/" class="btn" role="button" target="_blank"><i class="fa-solid fa-computer" title="A computer screen" aria-label="computer"></i> website</a> <a href="https://github.com/atheobold/uscots-quarto" class="btn" role="button" target="_blank"><i class="fa-brands fa-github" title="Octocat, the GitHub logo" aria-label="github"></i> source code</a></p>
 </div>
 </section>
 <section id="audience" class="level1">
 <h1>Audience</h1>
-<p>This presentation was presented at the <a href="https://iticse.acm.org/2023/">2023 International Conference on Innovation and Technology in Computer Science Education (ITiCSE)</a>.</p>
+<p>This workshop was presented at the <a href="https://www.causeweb.org/cause/uscots/uscots23/w04-reproducible-documents-presentations-and-websites-quarto-room-106">2023 US Conference on Teaching Statistics (USCOTS)</a>. The materials associated with this workshop are geared toward anyone interested in learning about Quarto, what it is about, and how to use it to make documents, presentations and websites for their courses.</p>
 
 
 </section>

@@ -16,7 +16,8 @@ image: voice-megaphone.png
 
 <center>
 
-<iframe class="slide-deck" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4VKOEgBj1VwPwAh3yvsL1yZ39bixBYJIK6QFmg5q_TGDLmWBumojx1mRGA0EAR7V_i604Hm084hSS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+<iframe class="slide-deck" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4VKOEgBj1VwPwAh3yvsL1yZ39bixBYJIK6QFmg5q_TGDLmWBumojx1mRGA0EAR7V_i604Hm084hSS/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="750px," height="550px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+
 </iframe>
 
 </center>
@@ -29,11 +30,10 @@ image: voice-megaphone.png
 
 # Abstract
 
-Over the last few years, diversity, equity, and inclusion (DEI) has become a common topic of conversation in education. While many of these conversations revolve around “social justice” topics, we view DEI as a tool to inspect issues of power in the classroom. Specifically, we stand behind Gutierrez (2002) and declare that ultimately equity is about the distribution of power. 
+Over the last few years, diversity, equity, and inclusion (DEI) has become a common topic of conversation in education. While many of these conversations revolve around “social justice” topics, we view DEI as a tool to inspect issues of power in the classroom. Specifically, we stand behind Gutierrez (2002) and declare that ultimately equity is about the distribution of power.
 
-In this invited session, we dig into four critical areas where issues of equity manifest in the classroom: access, achievement, identity, and power. Access and achievement form the “dominant axis,” which focuses on preparing students to “play the game”—preparing them to participate economically in society. Identity and power form the “critical axis,” which focuses on building critical citizens so students can “change the game.” Each speaker provides insight into how they consider issues related to a specific dimension of equity in their classroom and offers strategies for dismantling inequities in the classroom that put power in student’s hands. 
+In this invited session, we dig into four critical areas where issues of equity manifest in the classroom: access, achievement, identity, and power. Access and achievement form the “dominant axis,” which focuses on preparing students to “play the game”—preparing them to participate economically in society. Identity and power form the “critical axis,” which focuses on building critical citizens so students can “change the game.” Each speaker provides insight into how they consider issues related to a specific dimension of equity in their classroom and offers strategies for dismantling inequities in the classroom that put power in student’s hands.
 
 # Audience
 
-This presentation was presented at the 2023 Joint Statistical Meetings, as part of a session on four ways educators can view equity in their classroom. There are two other incredible presentations as part of this session---[Access as the intersection of resources and practices](https://docs.google.com/presentation/d/1qDoPp7Y2H0DjmDDb1W0jphDN_P1HeM65McyNqcbQkOQ/edit?usp=sharing) by Dr. Leslie Myint and [Rethinking grading systems in intro and advanced statistics courses](https://docs.google.com/presentation/d/1jkE90LkjwSwPc5p1w7qB7SHqiIpaYdQ64vZqLsAvpcU/edit?usp=sharing) by Dr. Kelsey Grinde. 
-
+This presentation was presented at the 2023 Joint Statistical Meetings, as part of a session on four ways educators can view equity in their classroom. There are two other incredible presentations as part of this session---[Access as the intersection of resources and practices](https://docs.google.com/presentation/d/1qDoPp7Y2H0DjmDDb1W0jphDN_P1HeM65McyNqcbQkOQ/edit?usp=sharing) by Dr. Leslie Myint and [Rethinking grading systems in intro and advanced statistics courses](https://docs.google.com/presentation/d/1jkE90LkjwSwPc5p1w7qB7SHqiIpaYdQ64vZqLsAvpcU/edit?usp=sharing) by Dr. Kelsey Grinde.

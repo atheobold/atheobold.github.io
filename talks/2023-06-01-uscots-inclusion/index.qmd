@@ -1,0 +1,41 @@
+---
+title: "Creating inclusive and supportive classrooms for every student"
+description: |
+  a talk about 
+author:
+  - name: Kelly Bodwin
+    url: https://www.kelly-bodwin.com/
+    affiliation: Cal Poly, SLO
+    affiliation-url: https://statistics.calpoly.edu/Kelly-Bodwin
+  - name: Allison Theobold
+    url: https://atheobold.github.io/
+    orcid: 0000-0002-8092-6182
+    affiliation: Cal Poly, SLO
+    affiliation-url: https://statistics.calpoly.edu/allison-theobold
+date: 2024-06-10
+slug: ecots2024decoder
+categories: [R, data science education]
+image: decode-r.jpeg
+---
+
+# Abstract
+
+"Many USCOTS attendees are committed to inclusive teaching practices, but creating inclusive classrooms necessitates being aware of different identities, perspectives, and experiences and how they intersect with student’s experiences in the classroom. However, curricular materials and / or pedagogical practices can diminish certain student’s identities, leaving them uninterested in the disciplines of statistics and data science. 
+
+This workshop consists of two segments. The first segment, LGBTQ+ Identities, will be dedicated to a “Safe Zone” style workshop where participants are introduced to core concepts of marginalized genders and sexualities. The second segment, Creating Inclusive Classrooms & Addressing Microaggressions, will focus on setting up classrooms which create inclusive spaces and ways to address microaggressions that arise. We will describe a variety of microaggressions that may occur (e.g., ableism, heterosexism, transnegativity), and discuss strategies for responding to microaggressions in the classroom. Research suggests practicing difficult conversations is essential for achieving an inclusive classroom environment."
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_gH3aDg0k5LEby3it4_xQAkCI9xY9oSJQoW065dJfzu5yYgTnSxDhRfIaMjli2u2jMYPraZbtG8Ij/embed?start=false&loop=false&delayms=3000" frameborder="0" width="750px," height="550px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</center>
+
+<br>
+
+::: center-text
+[{{< fa tv title="A television screen" >}} slides](https://docs.google.com/presentation/d/1CicQGyNbAE7KyuP1Skqz5SLP1UQBA4sSx7PmbvEEsNc/edit?usp=sharing){.btn role="button" target="_blank"} [{{< fa brands google title="the Google logo" >}} drive with workshop materials](https://drive.google.com/drive/folders/1QkRsDONj9aeGydw9_45jJDLAFrk47uI_){.btn role="button" target="_blank"}
+:::
+
+# Audience
+
+This workshop was presented at the [2023 US Conference on Teaching Statistics (USCOTS)](https://www.causeweb.org/cause/uscots/uscots23/w15-creating-inclusive-and-supportive-classrooms-every-student-room-106).

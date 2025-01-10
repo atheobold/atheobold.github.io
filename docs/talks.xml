@@ -48,6 +48,43 @@
   <media:content url="https://atheobold.github.io/talks/2024-08-08-assessment-at-scale-discussion/stack-papers.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>Creating inclusive and supportive classrooms for every student</title>
+  <dc:creator>Kelly Bodwin</dc:creator>
+  <dc:creator>Allison Theobold</dc:creator>
+  <link>https://atheobold.github.io/talks/2023-06-01-uscots-inclusion/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>“Many USCOTS attendees are committed to inclusive teaching practices, but creating inclusive classrooms necessitates being aware of different identities, perspectives, and experiences and how they intersect with student’s experiences in the classroom. However, curricular materials and / or pedagogical practices can diminish certain student’s identities, leaving them uninterested in the disciplines of statistics and data science.</p>
+<p>This workshop consists of two segments. The first segment, LGBTQ+ Identities, will be dedicated to a “Safe Zone” style workshop where participants are introduced to core concepts of marginalized genders and sexualities. The second segment, Creating Inclusive Classrooms &amp; Addressing Microaggressions, will focus on setting up classrooms which create inclusive spaces and ways to address microaggressions that arise. We will describe a variety of microaggressions that may occur (e.g., ableism, heterosexism, transnegativity), and discuss strategies for responding to microaggressions in the classroom. Research suggests practicing difficult conversations is essential for achieving an inclusive classroom environment.”</p>
+<center>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_gH3aDg0k5LEby3it4_xQAkCI9xY9oSJQoW065dJfzu5yYgTnSxDhRfIaMjli2u2jMYPraZbtG8Ij/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="750px," height="550px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
+</center>
+<p><br></p>
+<div class="center-text">
+<p><a href="https://docs.google.com/presentation/d/1CicQGyNbAE7KyuP1Skqz5SLP1UQBA4sSx7PmbvEEsNc/edit?usp=sharing" class="btn" target="_blank"><i class="fa-solid fa-tv" title="A television screen" aria-label="tv"></i> slides</a> <a href="https://drive.google.com/drive/folders/1QkRsDONj9aeGydw9_45jJDLAFrk47uI_" class="btn" target="_blank"><i class="fa-brands fa-google" title="the Google logo" aria-label="google"></i> drive with workshop materials</a></p>
+</div>
+</section>
+<section id="audience" class="level1">
+<h1>Audience</h1>
+<p>This workshop was presented at the <a href="https://www.causeweb.org/cause/uscots/uscots23/w15-creating-inclusive-and-supportive-classrooms-every-student-room-106">2023 US Conference on Teaching Statistics (USCOTS)</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>R</category>
+  <category>data science education</category>
+  <guid>https://atheobold.github.io/talks/2023-06-01-uscots-inclusion/</guid>
+  <pubDate>Mon, 10 Jun 2024 07:00:00 GMT</pubDate>
+  <media:content url="https://atheobold.github.io/talks/2023-06-01-uscots-inclusion/decode-r.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>DecodeR: Gameful Activities for Introductory Programming</title>
   <dc:creator>Kelly Bodwin</dc:creator>
   <dc:creator>Allison Theobold</dc:creator>
@@ -57,8 +94,6 @@
 
 
 
-<!-- Gameful learning—incorporating game characteristics into learning activities—promote a greater intrinsic motivation with students and -->
-<!-- help to create an environment where students expend serious effort, act creatively, take risks, and collaborate.  -->
 <center>
 <iframe class="slide-deck" src="https://atheobold.github.io/ecots-decodeR/ecots-presentation.html" title="decodeR" width="750px," height="550px">
 </iframe>
@@ -173,7 +208,7 @@ Access, Identity, and Power in Alternative Grading
 <h1>Abstract</h1>
 <p>Despite the elevated importance of Data Science in Statistics, there exists limited research investigating how students learn the computing concepts and skills necessary for carrying out data science tasks. Computer Science educators have investigated how students debug their own code and how students reason through foreign code. While these studies illuminate different aspects of students’ programming behavior or conceptual understanding, a method has yet to be employed that can shed light on students’ learning processes. This type of inquiry necessitates qualitative methods, which allow for a holistic description of the skills a student uses throughout the computing code they produce, the organization of these descriptions into themes, and a comparison of the emergent themes across students or across time. In this article we share how to conceptualize and carry out the qualitative coding process with students’ computing code. Drawing on the Block Model to frame our analysis, we explore two types of research questions which could be posed about students’ learning. Supplementary materials for this article are available online.</p>
 <center>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbfAIKe7vijS14tK_5XFb8cJ-WvxCMSBKeu5XJGR0FsrNAQM6x5BTZg7pyCZs7fENrybFqAuRt7gqv/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbfAIKe7vijS14tK_5XFb8cJ-WvxCMSBKeu5XJGR0FsrNAQM6x5BTZg7pyCZs7fENrybFqAuRt7gqv/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="750px," height="550px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 </iframe>
 </center>
 <p><br></p>
@@ -241,7 +276,7 @@ Access, Identity, and Power in Alternative Grading
 
 
 <center>
-<iframe class="slide-deck" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4VKOEgBj1VwPwAh3yvsL1yZ39bixBYJIK6QFmg5q_TGDLmWBumojx1mRGA0EAR7V_i604Hm084hSS/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+<iframe class="slide-deck" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4VKOEgBj1VwPwAh3yvsL1yZ39bixBYJIK6QFmg5q_TGDLmWBumojx1mRGA0EAR7V_i604Hm084hSS/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="750px," height="550px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 </iframe>
 </center>
 <p><br></p>
@@ -276,7 +311,7 @@ Access, Identity, and Power in Alternative Grading
 
 
 <center>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROsiUN5AAYAF09a-NJh2XeJvJ1yHn6Tk8oHicdLBGriD78Xx7DjS2IlIAGZduBuajdeSKrybG5LwQ1/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROsiUN5AAYAF09a-NJh2XeJvJ1yHn6Tk8oHicdLBGriD78Xx7DjS2IlIAGZduBuajdeSKrybG5LwQ1/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="750px," height="550px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 </iframe>
 </center>
 <p><br></p>
@@ -300,6 +335,41 @@ Access, Identity, and Power in Alternative Grading
   <guid>https://atheobold.github.io/talks/2023-07-11-iticse/</guid>
   <pubDate>Tue, 11 Jul 2023 07:00:00 GMT</pubDate>
   <media:content url="https://atheobold.github.io/talks/2023-07-11-iticse/human-centered-design.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>W04: Reproducible documents, presentations, and websites with Quarto</title>
+  <dc:creator>Emily Robinson</dc:creator>
+  <dc:creator>Allison Theobold</dc:creator>
+  <link>https://atheobold.github.io/talks/2023-05-31-uscots-quarto/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>Quarto is the next generation of R Markdown for publishing, including dynamic and static documents and multi-lingual programming language support. With Quarto, you can create documents, books, presentations, websites, or other online resources. The workshop is comprised of three modules. Module 1 will introduce you to Quarto documents, for both student and instructor use. We will demonstrate how we use Quarto documents and RStudio’s Visual Editor to introduce students to reproducible workflows. We will also demonstrate how Quarto documents can be used to create and distribute teaching resources. Modules 2 and 3 will extend the use of Quarto to create teaching resources, outlining how Quarto can be used to create course slides and course websites. We will conclude with tips on how to make your materials publicly available to share with students and other educators.</p>
+<center>
+<iframe width="780" height="500" src="https://atheobold.github.io/uscots-quarto/" title="USCOTS 2023 Workshop on Quarto"></iframe>
+</center>
+<p><br></p>
+<div class="center-text">
+<p><a href="https://atheobold.github.io/uscots-quarto/" class="btn" target="_blank"><i class="fa-solid fa-computer" title="A computer screen" aria-label="computer"></i> website</a> <a href="https://github.com/atheobold/uscots-quarto" class="btn" target="_blank"><i class="fa-brands fa-github" title="Octocat, the GitHub logo" aria-label="github"></i> source code</a></p>
+</div>
+</section>
+<section id="audience" class="level1">
+<h1>Audience</h1>
+<p>This workshop was presented at the <a href="https://www.causeweb.org/cause/uscots/uscots23/w04-reproducible-documents-presentations-and-websites-quarto-room-106">2023 US Conference on Teaching Statistics (USCOTS)</a>. The materials associated with this workshop are geared toward anyone interested in learning about Quarto, what it is about, and how to use it to make documents, presentations and websites for their courses.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>R</category>
+  <category>Quarto</category>
+  <guid>https://atheobold.github.io/talks/2023-05-31-uscots-quarto/</guid>
+  <pubDate>Wed, 31 May 2023 07:00:00 GMT</pubDate>
+  <media:content url="https://atheobold.github.io/talks/2023-05-31-uscots-quarto/quarto-horst.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
 </rss>

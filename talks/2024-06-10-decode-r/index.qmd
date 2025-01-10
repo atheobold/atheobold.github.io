@@ -18,10 +18,6 @@ categories: [R, data science education]
 image: decode-r.jpeg
 ---
 
-<!-- Gameful learning—incorporating game characteristics into learning activities—promote a greater intrinsic motivation with students and -->
-
-<!-- help to create an environment where students expend serious effort, act creatively, take risks, and collaborate.  -->
-
 <center>
 
 <iframe class="slide-deck" src="https://atheobold.github.io/ecots-decodeR/ecots-presentation.html" title="decodeR" width="750px," height="550px">
