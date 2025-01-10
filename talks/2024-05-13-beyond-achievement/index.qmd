@@ -19,7 +19,7 @@ author:
 date: 2024-05-13
 slug: jsm2023
 categories: [equitable pedagogy]
-image: voice-megaphone.png
+image: axis-gutierrez.jpg
 ---
 
 <center>

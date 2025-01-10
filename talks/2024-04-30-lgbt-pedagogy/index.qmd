@@ -15,7 +15,7 @@ author:
 date: 2024-04-30
 slug: ecots2024decoder
 categories: [R]
-image: decode-r.jpeg
+image: pride-flag.jpg
 ---
 
 # Abstract
