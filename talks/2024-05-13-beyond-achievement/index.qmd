@@ -1,0 +1,53 @@
+---
+title: "Beyond Achievement"
+description: |
+  a talk about equity in assessing students' learning, specifically attending to issues of access, identity, and power in assessment
+author:
+  - name: Kelsey Grinde
+    url: https://kegrinde.github.io/
+    affiliation: Macalester College
+    affiliation-url: https://www.macalester.edu/mscs/facultystaff/kelsey-grinde/
+  - name: Leslie Myint
+    url: https://www.lesliemyint.org/
+    affiliation: Macalester College
+    affiliation-url: https://www.macalester.edu/mscs/facultystaff/leslie-myint/
+  - name: Allison Theobold
+    url: https://atheobold.github.io/
+    orcid: 0000-0002-8092-6182
+    affiliation: Cal Poly, SLO
+    affiliation-url: https://statistics.calpoly.edu/allison-theobold
+date: 2024-05-13
+slug: jsm2023
+categories: [equitable pedagogy]
+image: voice-megaphone.png
+---
+
+<center>
+
+::: substack-post-embed
+<p lang="en">
+
+Beyond Achievement by Kelsey Grinde, Leslie Myint, and Allison Theobold
+
+</p>
+
+<p>Access, Identity, and Power in Alternative Grading</p>
+
+<a data-post-link href="https://gradingforgrowth.com/p/beyond-achievement">Read on Substack</a>
+:::
+
+```{=html}
+<script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+```
+
+</center>
+
+<br>
+
+# Abstract
+
+This post stems from ideas shared in a 2023 Joint Statistical Meetings session, “Power in the Classroom: From Helping Students Play the Game to Helping Students Change the Game”, where all three of us presented.
+
+# Audience
+
+This post was written for [Grading for Growth](https://gradingforgrowth.com/), a newsletter / blog about the emerging revolution in grading.
