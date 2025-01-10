@@ -48,43 +48,6 @@
   <media:content url="https://atheobold.github.io/talks/2024-08-08-assessment-at-scale-discussion/stack-papers.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Creating inclusive and supportive classrooms for every student</title>
-  <dc:creator>Kelly Bodwin</dc:creator>
-  <dc:creator>Allison Theobold</dc:creator>
-  <link>https://atheobold.github.io/talks/2023-06-01-uscots-inclusion/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="abstract" class="level1">
-<h1>Abstract</h1>
-<p>“Many USCOTS attendees are committed to inclusive teaching practices, but creating inclusive classrooms necessitates being aware of different identities, perspectives, and experiences and how they intersect with student’s experiences in the classroom. However, curricular materials and / or pedagogical practices can diminish certain student’s identities, leaving them uninterested in the disciplines of statistics and data science.</p>
-<p>This workshop consists of two segments. The first segment, LGBTQ+ Identities, will be dedicated to a “Safe Zone” style workshop where participants are introduced to core concepts of marginalized genders and sexualities. The second segment, Creating Inclusive Classrooms &amp; Addressing Microaggressions, will focus on setting up classrooms which create inclusive spaces and ways to address microaggressions that arise. We will describe a variety of microaggressions that may occur (e.g., ableism, heterosexism, transnegativity), and discuss strategies for responding to microaggressions in the classroom. Research suggests practicing difficult conversations is essential for achieving an inclusive classroom environment.”</p>
-<center>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_gH3aDg0k5LEby3it4_xQAkCI9xY9oSJQoW065dJfzu5yYgTnSxDhRfIaMjli2u2jMYPraZbtG8Ij/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="750px," height="550px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
-</iframe>
-</center>
-<p><br></p>
-<div class="center-text">
-<p><a href="https://docs.google.com/presentation/d/1CicQGyNbAE7KyuP1Skqz5SLP1UQBA4sSx7PmbvEEsNc/edit?usp=sharing" class="btn" target="_blank"><i class="fa-solid fa-tv" title="A television screen" aria-label="tv"></i> slides</a> <a href="https://drive.google.com/drive/folders/1QkRsDONj9aeGydw9_45jJDLAFrk47uI_" class="btn" target="_blank"><i class="fa-brands fa-google" title="the Google logo" aria-label="google"></i> drive with workshop materials</a></p>
-</div>
-</section>
-<section id="audience" class="level1">
-<h1>Audience</h1>
-<p>This workshop was presented at the <a href="https://www.causeweb.org/cause/uscots/uscots23/w15-creating-inclusive-and-supportive-classrooms-every-student-room-106">2023 US Conference on Teaching Statistics (USCOTS)</a>.</p>
-
-
-</section>
-
- ]]></description>
-  <category>R</category>
-  <category>data science education</category>
-  <guid>https://atheobold.github.io/talks/2023-06-01-uscots-inclusion/</guid>
-  <pubDate>Mon, 10 Jun 2024 07:00:00 GMT</pubDate>
-  <media:content url="https://atheobold.github.io/talks/2023-06-01-uscots-inclusion/decode-r.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
   <title>DecodeR: Gameful Activities for Introductory Programming</title>
   <dc:creator>Kelly Bodwin</dc:creator>
   <dc:creator>Allison Theobold</dc:creator>
@@ -188,7 +151,9 @@ Access, Identity, and Power in Alternative Grading
 </section>
 
  ]]></description>
-  <category>R</category>
+  <category>lgbtq</category>
+  <category>equitable pedagogy</category>
+  <category>inclusion</category>
   <guid>https://atheobold.github.io/talks/2024-04-30-lgbt-pedagogy/</guid>
   <pubDate>Tue, 30 Apr 2024 07:00:00 GMT</pubDate>
   <media:content url="https://atheobold.github.io/talks/2024-04-30-lgbt-pedagogy/pride-flag.jpg" medium="image" type="image/jpeg"/>
@@ -337,7 +302,46 @@ Access, Identity, and Power in Alternative Grading
   <media:content url="https://atheobold.github.io/talks/2023-07-11-iticse/human-centered-design.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>W04: Reproducible documents, presentations, and websites with Quarto</title>
+  <title>Creating inclusive and supportive classrooms for every student</title>
+  <dc:creator>Nicole Dalzell</dc:creator>
+  <dc:creator>Zoe Rehnberg</dc:creator>
+  <dc:creator>Allison Theobold</dc:creator>
+  <link>https://atheobold.github.io/talks/2023-06-01-uscots-inclusion/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>Many educators are committed to inclusive teaching practices, but creating inclusive classrooms necessitates being aware of different identities, perspectives, and experiences and how they intersect with student’s experiences in the classroom. However, curricular materials and / or pedagogical practices can diminish certain student’s identities, leaving them uninterested in the disciplines of statistics and data science.</p>
+<p>This workshop consists of two segments. The first segment, LGBTQ+ Identities, will be dedicated to a “Safe Zone” style workshop where participants are introduced to core concepts of marginalized genders and sexualities. The second segment, Creating Inclusive Classrooms &amp; Addressing Microaggressions, will focus on setting up classrooms which create inclusive spaces and ways to address microaggressions that arise. We will describe a variety of microaggressions that may occur (e.g., ableism, heterosexism, transnegativity), and discuss strategies for responding to microaggressions in the classroom. Research suggests practicing difficult conversations is essential for achieving an inclusive classroom environment.</p>
+<center>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_gH3aDg0k5LEby3it4_xQAkCI9xY9oSJQoW065dJfzu5yYgTnSxDhRfIaMjli2u2jMYPraZbtG8Ij/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="750px," height="550px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
+</center>
+<p><br></p>
+<div class="center-text">
+<p><a href="https://docs.google.com/presentation/d/1CicQGyNbAE7KyuP1Skqz5SLP1UQBA4sSx7PmbvEEsNc/edit?usp=sharing" class="btn" target="_blank"><i class="fa-solid fa-tv" title="A television screen" aria-label="tv"></i> slides</a> <a href="https://drive.google.com/drive/folders/1QkRsDONj9aeGydw9_45jJDLAFrk47uI_" class="btn" target="_blank"><i class="fa-brands fa-google" title="the Google logo" aria-label="google"></i> drive with workshop materials</a></p>
+</div>
+</section>
+<section id="audience" class="level1">
+<h1>Audience</h1>
+<p>This workshop was presented at the <a href="https://www.causeweb.org/cause/uscots/uscots23/w15-creating-inclusive-and-supportive-classrooms-every-student-room-106">2023 US Conference on Teaching Statistics (USCOTS)</a>. the materials were created to support statistics and data science educators, however, the themes we explore are important for a variety of disciplines.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>inclusion</category>
+  <category>equitable pedagogy</category>
+  <category>lgbtq</category>
+  <guid>https://atheobold.github.io/talks/2023-06-01-uscots-inclusion/</guid>
+  <pubDate>Thu, 01 Jun 2023 07:00:00 GMT</pubDate>
+  <media:content url="https://atheobold.github.io/talks/2023-06-01-uscots-inclusion/diversity.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Reproducible documents, presentations, and websites with Quarto</title>
   <dc:creator>Emily Robinson</dc:creator>
   <dc:creator>Allison Theobold</dc:creator>
   <link>https://atheobold.github.io/talks/2023-05-31-uscots-quarto/</link>

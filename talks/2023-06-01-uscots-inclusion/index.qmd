@@ -3,26 +3,32 @@ title: "Creating inclusive and supportive classrooms for every student"
 description: |
   a talk about 
 author:
-  - name: Kelly Bodwin
-    url: https://www.kelly-bodwin.com/
+  - name: Nicole Dalzell
+    url: https://nicolemdalzell.weebly.com/
+    orcid: 0000-0003-4211-1916
+    affiliation: Wake Forest University
+    affiliation-url: https://stats.wfu.edu/faculty/
+  - name: Zoe Rehnberg
+    url: https://zoerehnberg.github.io/
     affiliation: Cal Poly, SLO
-    affiliation-url: https://statistics.calpoly.edu/Kelly-Bodwin
+    orcid: 0000-0001-6207-4660 
+    affiliation-url: https://statistics.calpoly.edu/Zoe-Rehnberg
   - name: Allison Theobold
     url: https://atheobold.github.io/
     orcid: 0000-0002-8092-6182
     affiliation: Cal Poly, SLO
     affiliation-url: https://statistics.calpoly.edu/allison-theobold
-date: 2024-06-10
-slug: ecots2024decoder
-categories: [R, data science education]
-image: decode-r.jpeg
+date: 2023-06-01
+slug: uscots2023inclusion
+categories: [inclusion, equitable pedagogy, lgbtq]
+image: diversity.jpeg
 ---
 
 # Abstract
 
-"Many USCOTS attendees are committed to inclusive teaching practices, but creating inclusive classrooms necessitates being aware of different identities, perspectives, and experiences and how they intersect with student’s experiences in the classroom. However, curricular materials and / or pedagogical practices can diminish certain student’s identities, leaving them uninterested in the disciplines of statistics and data science. 
+Many educators are committed to inclusive teaching practices, but creating inclusive classrooms necessitates being aware of different identities, perspectives, and experiences and how they intersect with student’s experiences in the classroom. However, curricular materials and / or pedagogical practices can diminish certain student’s identities, leaving them uninterested in the disciplines of statistics and data science. 
 
-This workshop consists of two segments. The first segment, LGBTQ+ Identities, will be dedicated to a “Safe Zone” style workshop where participants are introduced to core concepts of marginalized genders and sexualities. The second segment, Creating Inclusive Classrooms & Addressing Microaggressions, will focus on setting up classrooms which create inclusive spaces and ways to address microaggressions that arise. We will describe a variety of microaggressions that may occur (e.g., ableism, heterosexism, transnegativity), and discuss strategies for responding to microaggressions in the classroom. Research suggests practicing difficult conversations is essential for achieving an inclusive classroom environment."
+This workshop consists of two segments. The first segment, LGBTQ+ Identities, will be dedicated to a “Safe Zone” style workshop where participants are introduced to core concepts of marginalized genders and sexualities. The second segment, Creating Inclusive Classrooms & Addressing Microaggressions, will focus on setting up classrooms which create inclusive spaces and ways to address microaggressions that arise. We will describe a variety of microaggressions that may occur (e.g., ableism, heterosexism, transnegativity), and discuss strategies for responding to microaggressions in the classroom. Research suggests practicing difficult conversations is essential for achieving an inclusive classroom environment.
 
 <center>
 
@@ -38,4 +44,4 @@ This workshop consists of two segments. The first segment, LGBTQ+ Identities, wi
 
 # Audience
 
-This workshop was presented at the [2023 US Conference on Teaching Statistics (USCOTS)](https://www.causeweb.org/cause/uscots/uscots23/w15-creating-inclusive-and-supportive-classrooms-every-student-room-106).
+This workshop was presented at the [2023 US Conference on Teaching Statistics (USCOTS)](https://www.causeweb.org/cause/uscots/uscots23/w15-creating-inclusive-and-supportive-classrooms-every-student-room-106). the materials were created to support statistics and data science educators, however, the themes we explore are important for a variety of disciplines. 

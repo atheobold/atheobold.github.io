@@ -7,7 +7,6 @@
     "listing": "/talks.html",
     "items": [
       "/talks/2024-08-08-assessment-at-scale-discussion/index.html",
-      "/talks/2023-06-01-uscots-inclusion/index.html",
       "/talks/2024-06-10-decode-r/index.html",
       "/talks/2024-05-13-beyond-achievement/index.html",
       "/talks/2024-04-30-lgbt-pedagogy/index.html",
@@ -15,6 +14,7 @@
       "/talks/2024-01-11-evaluating-code-communication/index.html",
       "/talks/2023-08-08-voice-in-classroom/index.html",
       "/talks/2023-07-11-iticse/index.html",
+      "/talks/2023-06-01-uscots-inclusion/index.html",
       "/talks/2023-05-31-uscots-quarto/index.html"
     ]
   }
