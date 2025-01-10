@@ -49,6 +49,78 @@
   <media:content url="https://atheobold.github.io/talks/2024-06-10-decode-r/decode-r.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>Beyond Achievement</title>
+  <dc:creator>Kelsey Grinde</dc:creator>
+  <dc:creator>Leslie Myint</dc:creator>
+  <dc:creator>Allison Theobold</dc:creator>
+  <link>https://atheobold.github.io/talks/2024-05-13-beyond-achievement/</link>
+  <description><![CDATA[ 
+
+
+
+
+<center>
+<div class="substack-post-embed">
+<p lang="en">
+</p><p>Beyond Achievement by Kelsey Grinde, Leslie Myint, and Allison Theobold</p>
+<p></p>
+<p>
+Access, Identity, and Power in Alternative Grading
+</p>
+<p><a data-post-link="" href="https://gradingforgrowth.com/p/beyond-achievement">Read on Substack</a></p>
+</div>
+<script async="" src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+</center>
+<p><br></p>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>This post stems from ideas shared in a 2023 Joint Statistical Meetings session, “Power in the Classroom: From Helping Students Play the Game to Helping Students Change the Game”, where all three of us presented.</p>
+</section>
+<section id="audience" class="level1">
+<h1>Audience</h1>
+<p>This post was written for <a href="https://gradingforgrowth.com/">Grading for Growth</a>, a newsletter / blog about the emerging revolution in grading.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>equitable pedagogy</category>
+  <guid>https://atheobold.github.io/talks/2024-05-13-beyond-achievement/</guid>
+  <pubDate>Mon, 13 May 2024 07:00:00 GMT</pubDate>
+  <media:content url="https://atheobold.github.io/talks/2024-05-13-beyond-achievement/voice-megaphone.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Evaluating Pedagogical Choices with an Eye Toward LGBTQ+ Students</title>
+  <dc:creator>Zoe Rehnberg</dc:creator>
+  <dc:creator>Allison Theobold</dc:creator>
+  <link>https://atheobold.github.io/talks/2024-04-30-lgbt-pedagogy/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>In this post, we apply the three-question design decision framework outlined by Dr.&nbsp;Nicole Dalzell (<a href="https://stattlc.com/2024/04/11/evaluating-pedagogical-choices-with-an-inclusive-approach/">in the previous blog post</a>) to evaluate curricular and pedagogical choices that specifically impact lesbian, gay, bisexual, transgender, and queer (LGBTQ+) individuals in the classroom.</p>
+<center>
+<iframe width="780" height="500" src="https://stattlc.com/2024/04/30/evaluating-pedagogical-choices-with-an-eye-toward-lgbtq-students/" title="Evaluating Pedagogical Choices with an Eye Toward LGBTQ+ Students"></iframe>
+</center>
+<p><br></p>
+</section>
+<section id="audience" class="level1">
+<h1>Audience</h1>
+<p>StatTLC acts as a virtual space to share ideas about the teaching and learning of all areas of statistics at the post-secondary levels.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>R</category>
+  <guid>https://atheobold.github.io/talks/2024-04-30-lgbt-pedagogy/</guid>
+  <pubDate>Tue, 30 Apr 2024 07:00:00 GMT</pubDate>
+  <media:content url="https://atheobold.github.io/talks/2024-04-30-lgbt-pedagogy/decode-r.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Evaluating Students’ Code as a Learning Product</title>
   <dc:creator>Allison Theobold</dc:creator>
   <link>https://atheobold.github.io/talks/2024-01-11-evaluating-code-communication/</link>
@@ -82,6 +154,41 @@
   <guid>https://atheobold.github.io/talks/2024-01-11-evaluating-code-communication/</guid>
   <pubDate>Thu, 11 Jan 2024 08:00:00 GMT</pubDate>
   <media:content url="https://atheobold.github.io/talks/2024-01-11-evaluating-code-communication/code-speak.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
+<item>
+  <title>Whose voice can you hear?</title>
+  <dc:creator>Allison Theobold</dc:creator>
+  <link>https://atheobold.github.io/talks/2023-08-08-voice-in-classroom/</link>
+  <description><![CDATA[ 
+
+
+
+
+<center>
+<iframe class="slide-deck" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4VKOEgBj1VwPwAh3yvsL1yZ39bixBYJIK6QFmg5q_TGDLmWBumojx1mRGA0EAR7V_i604Hm084hSS/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
+</center>
+<p><br></p>
+<div class="center-text">
+<p><a href="https://docs.google.com/presentation/d/1vUbk5gWlANPUIyBVWEBVQ9ebYe2Ep9FjMPZk9XTiSiE/edit?usp=sharing" class="btn" target="_blank"><i class="fa-solid fa-tv" title="A television screen" aria-label="tv"></i> slides</a></p>
+</div>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>Over the last few years, diversity, equity, and inclusion (DEI) has become a common topic of conversation in education. While many of these conversations revolve around “social justice” topics, we view DEI as a tool to inspect issues of power in the classroom. Specifically, we stand behind Gutierrez (2002) and declare that ultimately equity is about the distribution of power.</p>
+<p>In this invited session, we dig into four critical areas where issues of equity manifest in the classroom: access, achievement, identity, and power. Access and achievement form the “dominant axis,” which focuses on preparing students to “play the game”—preparing them to participate economically in society. Identity and power form the “critical axis,” which focuses on building critical citizens so students can “change the game.” Each speaker provides insight into how they consider issues related to a specific dimension of equity in their classroom and offers strategies for dismantling inequities in the classroom that put power in student’s hands.</p>
+</section>
+<section id="audience" class="level1">
+<h1>Audience</h1>
+<p>This presentation was presented at the 2023 Joint Statistical Meetings, as part of a session on four ways educators can view equity in their classroom. There are two other incredible presentations as part of this session—<a href="https://docs.google.com/presentation/d/1qDoPp7Y2H0DjmDDb1W0jphDN_P1HeM65McyNqcbQkOQ/edit?usp=sharing">Access as the intersection of resources and practices</a> by Dr.&nbsp;Leslie Myint and <a href="https://docs.google.com/presentation/d/1jkE90LkjwSwPc5p1w7qB7SHqiIpaYdQ64vZqLsAvpcU/edit?usp=sharing">Rethinking grading systems in intro and advanced statistics courses</a> by Dr.&nbsp;Kelsey Grinde.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>equitable pedagogy</category>
+  <guid>https://atheobold.github.io/talks/2023-08-08-voice-in-classroom/</guid>
+  <pubDate>Tue, 08 Aug 2023 07:00:00 GMT</pubDate>
+  <media:content url="https://atheobold.github.io/talks/2023-08-08-voice-in-classroom/voice-megaphone.png" medium="image" type="image/png" height="129" width="144"/>
 </item>
 </channel>
 </rss>
