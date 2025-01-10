@@ -42,4 +42,4 @@ Gamification—integrating game elements (e.g., badges, levels, leaderboards) to
 
 # Audience
 
-These materials are geared toward anyone teaching introductory programming in R. I've linked the GitHub repository with the activities, and we are happy to have people contribute more activities!
+This talk was presented at the [2024 electronic Conference on Teaching Statistics (eCOTS)](https://www.causeweb.org/cause/ecots/ecots24/program/breakout/decoder-gameful-activities-for-introductory-programming). The materials associated with this presentation are geared toward anyone teaching introductory programming in R. I've linked the GitHub repository with the activities, and we are happy to have people contribute more activities!
