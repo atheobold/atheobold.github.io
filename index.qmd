@@ -5,14 +5,23 @@ editor: source
 about: 
   template: jolla
   image-shape: round
-  image-width: 17em
-  links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/allison-theobold-1ba0191a8/
-    - text: GitHub
-      href: https://github.com/atheobold
-    - text: Email
-      href: mailto:atheobold@calpoly.edu
+  image-width: 15em
 ---
 
-Hi there! I'm Allison Theobold. I'm an Assistant Professor in the Department of Statistics at Cal Poly in San Luis Obispo, California. I love teaching any and all computing courses, especially our first computing course. I love R with all my heart, but am currently learning to like Python. As a researcher, I focus on ways whe can innovate our statistics and data science classrooms to be more equitable and inclusive of a diverse body of learners. Outside of work, you can find me running and biking on the trails in San Luis Obispo, watching women’s basketball, cooking, and enjoying a good cup of coffee.
+
+</br>
+
+<!-- ##### A little about me -->
+
+<!-- > Wife to a wonderful nurse {{< fa stethoscope >}} mom to two fluffy cats {{< fa cat >}} I live on the Central Coast of California {{< fa sun >}} I love to teach {{< fa school >}} expecially computing courses {{< fa code >}} I do qualitative research {{< fa pencil >}} on students' sense of belonging and identity {{< fa image-portrait >}} i love cooking {{< fa cook >}} biking {{< fa bicycle >}} wine {{< fa wine-bottle >}} coffee {{< fa mug-hot >}} traveling {{< fa plane-departure >}} and striving for balance {{< fa scale-balanced >}} I love reading and am always trying to learn something new {{< fa book-open-reader >}}
+-->
+
+::: {#bio}
+::: {.cursive}
+#### Hello there! I'm Allison Theobold. Professionally, I love **teaching data science** skills and learning how to make my classroom **inclusive of a diverse set of learners**. Outside of work, I love being outside, cooking, watching womens basketball, traveling, and enjoying a good cup of coffee. Poke around to learn a bit more about me and my work! 
+:::
+:::
+
+::: {#landing-icons}
+[{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/allison-theobold-1ba0191a8/){target="_blank"} &nbsp; [{{< fa brands github title="github" >}}](https://github.com/atheobold){target="_blank"} &nbsp; [{{< fa brands bluesky title="bluesky" >}}](https://bsky.app/profile/samcsik.bsky.social){target="_blank"} &nbsp; [{{< fa envelope title="envelope" >}}](mailto:atheobol@calpoly.edu)
+:::

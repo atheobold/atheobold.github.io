@@ -35,12 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -72,7 +70,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -83,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/logo.png" alt="The initials 'AST' written in pink text surrounded by a pink box." class="navbar-logo">
+    <img src="./images/logo-name.png" alt="The initials 'AST' written in pink text." class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -91,40 +88,50 @@ ul.task-list li input[type="checkbox"] {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Home</span></a>
+<span class="menu-text"><i class="fa-solid fa-house-user" aria-label="house-user"></i> Home</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text"><i class="fa-solid fa-address-card" aria-label="address-card"></i> About</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-get-in-touch" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">get in touch!</span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-get-in-touch">    
-        <li>
-    <a class="dropdown-item" href="mailto:atheobol@calpoly.edu"><i class="bi bi-envelope" role="img">
-</i> 
- <span class="dropdown-text">email</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./media/cv-jan-7-2025.pdf" target="_blank"> 
-<span class="menu-text">CV</span></a>
+    <a class="nav-link" href="./courses.qmd"> 
+<span class="menu-text"><i class="fa-solid fa-laptop-code" aria-label="laptop-code"></i> Courses</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./talks.qmd"> 
+<span class="menu-text"><i class="fa-solid fa-chalkboard-user" aria-label="chalkboard-user"></i> Talks</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./lab.qmd"> 
+<span class="menu-text"><i class="fa-solid fa-chart-line" aria-label="chart-line"></i> Lab</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./media/cv-jan-7-2025.pdf"> 
+<span class="menu-text"><i class="fa-solid fa-paperclip" aria-label="paperclip"></i> Vitae</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="mailto:atheobold@calpoly.edu"> 
+<span class="menu-text"><i class="fa-solid fa-paper-plane" aria-label="paper-plane"></i> Contact</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/atheobold"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/atheobold" target="_blank"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://linkedin.com/in/atheobold"> <i class="bi bi-linkedin" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -137,24 +144,23 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <div class="quarto-about-jolla column-page">
   <img src="media/full-body-shot.jpg" class="about-image
-  round " style="height: 17em; width: 17em;">
+  round " style="height: 15em; width: 15em;">
  <main class="content column-page" id="quarto-document-content">
-<p>Hi there! I’m Allison Theobold. I’m an Assistant Professor in the Department of Statistics at Cal Poly in San Luis Obispo, California. I love teaching any and all computing courses, especially our first computing course. I love R with all my heart, but am currently learning to like Python. As a researcher, I focus on ways whe can innovate our statistics and data science classrooms to be more equitable and inclusive of a diverse body of learners. Outside of work, you can find me running and biking on the trails in San Luis Obispo, watching women’s basketball, cooking, and enjoying a good cup of coffee.</p>
-
-
-</main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://www.linkedin.com/in/allison-theobold-1ba0191a8/" class="about-link" rel="" target="">
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://github.com/atheobold" class="about-link" rel="" target="">
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="mailto:atheobold@calpoly.edu" class="about-link" rel="" target="">
-     <span class="about-link-text">Email</span>
-  </a>
+<p><br></p>
+<!-- ##### A little about me -->
+<!-- > Wife to a wonderful nurse  mom to two fluffy cats  I live on the Central Coast of California  I love to teach  expecially computing courses  I do qualitative research  on students' sense of belonging and identity  i love cooking  biking  wine  coffee  traveling  and striving for balance  I love reading and am always trying to learn something new 
+-->
+<div id="bio">
+<section id="hello-there-im-allison-theobold.-professionally-i-love-teaching-data-science-skills-and-learning-how-to-make-my-classroom-inclusive-of-a-diverse-set-of-learners.-outside-of-work-i-love-being-outside-cooking-watching-womens-basketball-traveling-and-enjoying-a-good-cup-of-coffee.-poke-around-to-learn-a-bit-more-about-me-and-my-work" class="level4 cursive">
+<h4 data-anchor-id="hello-there-im-allison-theobold.-professionally-i-love-teaching-data-science-skills-and-learning-how-to-make-my-classroom-inclusive-of-a-diverse-set-of-learners.-outside-of-work-i-love-being-outside-cooking-watching-womens-basketball-traveling-and-enjoying-a-good-cup-of-coffee.-poke-around-to-learn-a-bit-more-about-me-and-my-work">Hello there! I’m Allison Theobold. Professionally, I love <strong>teaching data science</strong> skills and learning how to make my classroom <strong>inclusive of a diverse set of learners</strong>. Outside of work, I love being outside, cooking, watching womens basketball, traveling, and enjoying a good cup of coffee. Poke around to learn a bit more about me and my work!</h4>
+</section>
 </div>
+<div id="landing-icons">
+<p><a href="https://www.linkedin.com/in/allison-theobold-1ba0191a8/" target="_blank"><i class="fa-brands fa-linkedin" title="linkedin" aria-label="linkedin"></i></a> &nbsp; <a href="https://github.com/atheobold" target="_blank"><i class="fa-brands fa-github" title="github" aria-label="github"></i></a> &nbsp; <a href="https://bsky.app/profile/samcsik.bsky.social" target="_blank"><i class="fa-brands fa-bluesky" title="bluesky" aria-label="bluesky"></i></a> &nbsp; <a href="mailto:atheobol@calpoly.edu"><i class="fa-solid fa-envelope" title="envelope" aria-label="envelope"></i></a></p>
+</div>
+
+
+</main>  
 </div>
  <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -177,150 +183,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const disableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'prefetch';
-    }
-  }
-  const enableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'stylesheet';
-    }
-  }
-  const manageTransitions = (selector, allowTransitions) => {
-    const els = window.document.querySelectorAll(selector);
-    for (let i=0; i < els.length; i++) {
-      const el = els[i];
-      if (allowTransitions) {
-        el.classList.remove('notransition');
-      } else {
-        el.classList.add('notransition');
-      }
-    }
-  }
-  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
-    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
-    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
-    let newTheme = '';
-    if(darkModeDefault) {
-      newTheme = isAlternate ? baseTheme : alternateTheme;
-    } else {
-      newTheme = isAlternate ? alternateTheme : baseTheme;
-    }
-    const changeGiscusTheme = () => {
-      // From: https://github.com/giscus/giscus/issues/336
-      const sendMessage = (message) => {
-        const iframe = document.querySelector('iframe.giscus-frame');
-        if (!iframe) return;
-        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
-      }
-      sendMessage({
-        setConfig: {
-          theme: newTheme
-        }
-      });
-    }
-    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
-    if (isGiscussLoaded) {
-      changeGiscusTheme();
-    }
-  }
-  const toggleColorMode = (alternate) => {
-    // Switch the stylesheets
-    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
-    manageTransitions('#quarto-margin-sidebar .nav-link', false);
-    if (alternate) {
-      enableStylesheet(alternateStylesheets);
-      for (const sheetNode of alternateStylesheets) {
-        if (sheetNode.id === "quarto-bootstrap") {
-          toggleBodyColorMode(sheetNode);
-        }
-      }
-    } else {
-      disableStylesheet(alternateStylesheets);
-      toggleBodyColorPrimary();
-    }
-    manageTransitions('#quarto-margin-sidebar .nav-link', true);
-    // Switch the toggles
-    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
-    for (let i=0; i < toggles.length; i++) {
-      const toggle = toggles[i];
-      if (toggle) {
-        if (alternate) {
-          toggle.classList.add("alternate");     
-        } else {
-          toggle.classList.remove("alternate");
-        }
-      }
-    }
-    // Hack to workaround the fact that safari doesn't
-    // properly recolor the scrollbar when toggling (#1455)
-    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
-      manageTransitions("body", false);
-      window.scrollTo(0, 1);
-      setTimeout(() => {
-        window.scrollTo(0, 0);
-        manageTransitions("body", true);
-      }, 40);  
-    }
-  }
-  const isFileUrl = () => { 
-    return window.location.protocol === 'file:';
-  }
-  const hasAlternateSentinel = () => {  
-    let styleSentinel = getColorSchemeSentinel();
-    if (styleSentinel !== null) {
-      return styleSentinel === "alternate";
-    } else {
-      return false;
-    }
-  }
-  const setStyleSentinel = (alternate) => {
-    const value = alternate ? "alternate" : "default";
-    if (!isFileUrl()) {
-      window.localStorage.setItem("quarto-color-scheme", value);
-    } else {
-      localAlternateSentinel = value;
-    }
-  }
-  const getColorSchemeSentinel = () => {
-    if (!isFileUrl()) {
-      const storageValue = window.localStorage.getItem("quarto-color-scheme");
-      return storageValue != null ? storageValue : localAlternateSentinel;
-    } else {
-      return localAlternateSentinel;
-    }
-  }
-  const darkModeDefault = false;
-  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
-  // Dark / light mode switch
-  window.quartoToggleColorScheme = () => {
-    // Read the current dark / light value 
-    let toAlternate = !hasAlternateSentinel();
-    toggleColorMode(toAlternate);
-    setStyleSentinel(toAlternate);
-    toggleGiscusIfUsed(toAlternate, darkModeDefault);
-  };
-  // Ensure there is a toggle, if there isn't float one in the top right
-  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
-    const a = window.document.createElement('a');
-    a.classList.add('top-right');
-    a.classList.add('quarto-color-scheme-toggle');
-    a.href = "";
-    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
-    const i = window.document.createElement("i");
-    i.classList.add('bi');
-    a.appendChild(i);
-    window.document.body.appendChild(a);
-  }
-  // Switch to dark mode if need be
-  if (hasAlternateSentinel()) {
-    toggleColorMode(true);
-  } else {
-    toggleColorMode(false);
-  }
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
@@ -721,7 +583,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <p>Copyright 2025, Allison Theobold</p>
 </div>   
     <div class="nav-footer-center">
-      &nbsp;
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ <img src="./images/logo-name.png" width="auto" height="100px">
+  </li>  
+</ul>
     </div>
     <div class="nav-footer-right">
 <p>This website is built with <i class="fa-solid fa-heart" title="a heart" aria-label="heart"></i>, <a href="https://github.com/atheobold/atheobold.github.io" target="_blank"><i class="fa-brands fa-github" title="GitHub octocat logo" aria-label="github"></i></a>, <a href="https://www.r-project.org/about.html" target="_blank"><i class="fa-brands fa-r-project" title="R Project" aria-label="r-project"></i></a> and <a href="https://quarto.org/" target="_blank">Quarto</a></p>

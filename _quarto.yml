@@ -8,47 +8,41 @@ website:
   favicon: images/cactus.png
   navbar:
     title: false
-    logo: images/logo.png
-    logo-alt: "The initials 'AST' written in pink text surrounded by a pink box."
+    logo: images/logo-name.png
+    logo-alt: "The initials 'AST' written in pink text."
+    left: 
+      - text: "{{< fa house-user >}} Home"
+        href: index.qmd
+      - text: "{{< fa address-card >}} About"
+        href: about.qmd
+      - text: "{{< fa laptop-code >}} Courses"
+        href: courses.qmd
+      - text: "{{< fa chalkboard-user >}} Talks"
+        href: talks.qmd
+      - text: "{{< fa chart-line >}} Lab"
+        href: lab.qmd
+      - text: "{{< fa paperclip >}} Vitae"
+        href: media/cv-jan-7-2025.pdf
+      - text: "{{< fa paper-plane >}} Contact"
+        href: mailto:atheobold@calpoly.edu
     right:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - text: get in touch!
-        menu:
-          # - icon: linkedin
-          #   text: LinkedIn
-          #   href: https://www.linkedin.com/in/samanthacsik/
-          #   target: _blank
-          - icon: envelope
-            text: email
-            href: mailto:atheobol@calpoly.edu
-      - href: media/cv-jan-7-2025.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
-        text: CV
-        target: _blank # opens link (or page) in a new browser tab
-      - icon: github # add icons as navbar buttons
+      - icon: github
         href: https://github.com/atheobold
-        target: _blank
-    # - href: writing.qmd
-    #   text: Writing
-    # - href: teaching.qmd
-    #   text: Teaching
-    # - href: talks.qmd
-    #   text: Talks
-    # - href: lab.qmd
-    #   text: Lab
+      - icon: linkedin
+        href: https://linkedin.com/in/atheobold
   page-footer:
     background: light # or `dark`
     left: Copyright 2025, Allison Theobold
+    center:
+      - text: "<img src='/images/logo-name.png' width='auto' height='100px'>"
     right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/atheobold/atheobold.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:
-    theme: 
-      light: sandstone
-      dark: solar
-    css: styles.css
+    theme: styles.scss
+    mainfont: M PLUS Rounded 1c
+      #light: sandstone
+      #dark: solar
     toc: true
     page-layout: full
     sidebar: false

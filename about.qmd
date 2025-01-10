@@ -4,7 +4,7 @@ editor: source
 
 ::: columns
 ::: {.column width="50%"}
-[I am always interested in talking about]{style="font-size: 2em; color: #fe019a;"}
+# [I am always interested in talking about]{.pink-text}
 
 - researching how students collaborate in-class
 - fostering students' identity as a statistician
@@ -14,7 +14,7 @@ editor: source
 - [RainbowR](https://rainbowr.org/)
 - Disney Land
 
-[over coffee]{style="font-size: 2em; color: #fe019a;"}
+# [over coffee]{.pink-text}
 
 :::
 
