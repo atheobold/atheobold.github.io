@@ -1,0 +1,37 @@
+---
+title: "Evaluating Pedagogical Choices with an Eye Toward LGBTQ+ Students"
+description: |
+  a talk about 
+author:
+  - name: Zoe Rehnberg
+    url: https://zoerehnberg.github.io/
+    affiliation: Cal Poly, SLO
+    affiliation-url: https://statistics.calpoly.edu/Zoe-Rehnberg
+  - name: Allison Theobold
+    url: https://atheobold.github.io/
+    orcid: 0000-0002-8092-6182
+    affiliation: Cal Poly, SLO
+    affiliation-url: https://statistics.calpoly.edu/allison-theobold
+date: 2024-04-30
+slug: ecots2024decoder
+categories: [R]
+image: decode-r.jpeg
+---
+
+# Abstract
+
+In this post, we apply the three-question design decision framework outlined by Dr. Nicole Dalzell ([in the previous blog post](https://stattlc.com/2024/04/11/evaluating-pedagogical-choices-with-an-inclusive-approach/)) to evaluate curricular and pedagogical choices that specifically impact lesbian, gay, bisexual, transgender, and queer (LGBTQ+) individuals in the classroom.
+
+<center>
+
+```{=html}
+<iframe width="780" height="500" src="https://stattlc.com/2024/04/30/evaluating-pedagogical-choices-with-an-eye-toward-lgbtq-students/" title="Evaluating Pedagogical Choices with an Eye Toward LGBTQ+ Students"></iframe>
+```
+
+</center>
+
+<br>
+
+# Audience
+
+StatTLC acts as a virtual space to share ideas about the teaching and learning of all areas of statistics at the post-secondary levels.
