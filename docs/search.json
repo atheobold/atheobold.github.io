@@ -14,11 +14,11 @@
     "text": "Professional Honors & Awards\nAllison was selected as the 2022 American Statistical Association’s Pride Scholarship recipient. Allison was also selected as an ASA StatsForward Fellow for the inagural 2024 cohort.\nAllison has contributed to integrating equity into the statistics education by being part of the GAISE revision committee, and the Bill & Melinda Gates Statistics High School Pathways curricular team."
   },
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "talks & workshops",
+    "objectID": "talks/2024-06-10-decode-r/index.html",
+    "href": "talks/2024-06-10-decode-r/index.html",
+    "title": "DecodeR: Gameful Activities for Introductory Programming",
     "section": "",
-    "text": "No matching items"
+    "text": "slides  source code\n\n\nAbstract\nGamification—integrating game elements (e.g., badges, levels, leaderboards) to trigger extrinsic motivation—has been lauded for increasing student engagement and motivation. While gamification may create a more engaging educational environment, the use of game related mechanics fosters a competitive system where students compete for the top “prize.” Alternatively, gameful learning—incorporating game characteristics into learning activities—promote greater intrinsic motivation. These gameful activities create an environment where students expend serious effort, act creatively, take risks, and collaborate.\n\n\nAudience\nThese materials are geared toward anyone teaching introductory programming in R. I’ve linked the GitHub repository with the activities, and we are happy to have people contribute more activities!"
   },
   {
     "objectID": "courses.html",
@@ -26,6 +26,13 @@
     "title": "courses",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "talks & workshops",
+    "section": "",
+    "text": "DecodeR: Gameful Activities for Introductory Programming\n\n\n\nR\n\n\n\na talk about gamful activities where students solve puzzles while learning to program in R\n\n\n\nKelly Bodwin, Allison Theobold\n\n\nJun 10, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",

@@ -10,6 +10,43 @@
 <atom:link href="https://atheobold.github.io/talks.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Fri, 10 Jan 2025 01:13:59 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Jun 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>DecodeR: Gameful Activities for Introductory Programming</title>
+  <dc:creator>Kelly Bodwin</dc:creator>
+  <dc:creator>Allison Theobold</dc:creator>
+  <link>https://atheobold.github.io/talks/2024-06-10-decode-r/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!-- Gameful learning—incorporating game characteristics into learning activities—promote a greater intrinsic motivation with students and -->
+<!-- help to create an environment where students expend serious effort, act creatively, take risks, and collaborate.  -->
+<center>
+<iframe class="slide-deck" src="https://atheobold.github.io/ecots-decodeR/ecots-presentation.html" title="decodeR" width="750px," height="550px">
+</iframe>
+</center>
+<p><br></p>
+<div class="center-text">
+<p><a href="https://atheobold.github.io/ecots-decodeR/ecots-presentation.html" class="btn" target="_blank"><i class="fa-solid fa-tv" title="A television screen" aria-label="tv"></i> slides</a> <a href="https://github.com/atheobold/ecots-decodeR" class="btn" target="_blank"><i class="fa-brands fa-github" title="Octocat, the GitHub logo" aria-label="github"></i> source code</a></p>
+</div>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>Gamification—integrating game elements (e.g., badges, levels, leaderboards) to trigger extrinsic motivation—has been lauded for increasing student engagement and motivation. While gamification may create a more engaging educational environment, the use of game related mechanics fosters a competitive system where students compete for the top “prize.” Alternatively, gameful learning—incorporating game characteristics into learning activities—promote greater intrinsic motivation. These gameful activities create an environment where students expend serious effort, act creatively, take risks, and collaborate.</p>
+</section>
+<section id="audience" class="level1">
+<h1>Audience</h1>
+<p>These materials are geared toward anyone teaching introductory programming in R. I’ve linked the GitHub repository with the activities, and we are happy to have people contribute more activities!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>R</category>
+  <guid>https://atheobold.github.io/talks/2024-06-10-decode-r/</guid>
+  <pubDate>Mon, 10 Jun 2024 07:00:00 GMT</pubDate>
+  <media:content url="https://atheobold.github.io/talks/2024-06-10-decode-r/decode-r.jpeg" medium="image" type="image/jpeg"/>
+</item>
 </channel>
 </rss>

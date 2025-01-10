@@ -1,10 +1,12 @@
 [
   {
-    "listing": "/talks.html",
+    "listing": "/courses.html",
     "items": []
   },
   {
-    "listing": "/courses.html",
-    "items": []
+    "listing": "/talks.html",
+    "items": [
+      "/talks/2024-06-10-decode-r/index.html"
+    ]
   }
 ]

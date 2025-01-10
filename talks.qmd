@@ -2,7 +2,7 @@
 title: "talks & workshops"
 subtitle: "a selection of my favorite talks & workshops and associated materials" 
 listing:
-  contents: talks_workshops
+  contents: talks
   feed: true
   sort: "date desc"
   type: grid
