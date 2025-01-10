@@ -44,6 +44,7 @@
 
  ]]></description>
   <category>R</category>
+  <category>data science education</category>
   <guid>https://atheobold.github.io/talks/2024-06-10-decode-r/</guid>
   <pubDate>Mon, 10 Jun 2024 07:00:00 GMT</pubDate>
   <media:content url="https://atheobold.github.io/talks/2024-06-10-decode-r/decode-r.jpeg" medium="image" type="image/jpeg"/>
@@ -189,6 +190,41 @@ Access, Identity, and Power in Alternative Grading
   <guid>https://atheobold.github.io/talks/2023-08-08-voice-in-classroom/</guid>
   <pubDate>Tue, 08 Aug 2023 07:00:00 GMT</pubDate>
   <media:content url="https://atheobold.github.io/talks/2023-08-08-voice-in-classroom/voice-megaphone.png" medium="image" type="image/png" height="129" width="144"/>
+</item>
+<item>
+  <title>Human Centered Data Science</title>
+  <dc:creator>Allison Theobold</dc:creator>
+  <link>https://atheobold.github.io/talks/2023-07-11-iticse/</link>
+  <description><![CDATA[ 
+
+
+
+
+<center>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROsiUN5AAYAF09a-NJh2XeJvJ1yHn6Tk8oHicdLBGriD78Xx7DjS2IlIAGZduBuajdeSKrybG5LwQ1/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
+</center>
+<p><br></p>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>The COVID-19 pandemic caused the flaws of traditional grading systems to become even more apparent. In response, a growing number of educators are transitioning their classrooms to focus on alternative methods of assessment. These subversive methods promote more equitable assessments, as they provide a more accurate picture of what a student has learned, cultivate students’ intrinsic motivation, and do not privilege students from certain backgrounds. This article details how alternative grading, specifically “ungrading,” was integrated into an introductory data science course. I detail how the course components align with the principles of alternative grading, students’ responses to the course structure, and the lessons I learned along the way. Finally, I close with a discussion of how infusing alternative methods of assessment into the classroom stands to cultivate the diversity continually lacking in computer science and data science.</p>
+<div class="center-text">
+<p><a href="https://docs.google.com/presentation/d/1kZgnvc5whhFd-zHjixvYktAgy1BM-pIRJEjK79vopNs/edit?usp=sharing" class="btn" target="_blank"><i class="fa-solid fa-tv" title="A television screen" aria-label="tv"></i> slides</a> <a href="https://doi.org/10.1145/3587102.3588816" class="btn" target="_blank"><i class="fa-solid fa-paper" title="A written paper" aria-label="paper"></i> slides</a></p>
+</div>
+</section>
+<section id="audience" class="level1">
+<h1>Audience</h1>
+<p>This presentation was presented at the <a href="https://iticse.acm.org/2023/">2023 International Conference on Innovation and Technology in Computer Science Education (ITiCSE)</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>equitable pedagogy</category>
+  <category>data science education</category>
+  <guid>https://atheobold.github.io/talks/2023-07-11-iticse/</guid>
+  <pubDate>Tue, 11 Jul 2023 07:00:00 GMT</pubDate>
+  <media:content url="https://atheobold.github.io/talks/2023-07-11-iticse/voice-megaphone.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

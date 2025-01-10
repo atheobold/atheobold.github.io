@@ -1,0 +1,39 @@
+---
+title: "Human Centered Data Science"
+description: |
+  a talk about using ungrading in an introductory data science course
+author:
+  - name: Allison Theobold
+    url: https://atheobold.github.io/
+    orcid: 0000-0002-8092-6182
+    affiliation: Cal Poly, SLO
+    affiliation-url: https://statistics.calpoly.edu/allison-theobold
+date: 2023-07-11
+slug: jsm2023
+categories: [equitable pedagogy, data science education]
+image: voice-megaphone.png
+---
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROsiUN5AAYAF09a-NJh2XeJvJ1yHn6Tk8oHicdLBGriD78Xx7DjS2IlIAGZduBuajdeSKrybG5LwQ1/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+
+</iframe>
+
+</center>
+
+<br>
+
+# Abstract
+
+The COVID-19 pandemic caused the flaws of traditional grading systems to become even more apparent. In response, a growing number of educators are transitioning their classrooms to focus on alternative methods of assessment. These subversive methods promote more equitable assessments, as they provide a more accurate picture of what a student has learned, cultivate students' intrinsic motivation, and do not privilege students from certain backgrounds. This article details how alternative grading, specifically "ungrading," was integrated into an introductory data science course. I detail how the course components align with the principles of alternative grading, students' responses to the course structure, and the lessons I learned along the way. Finally, I close with a discussion of how infusing alternative methods of assessment into the classroom stands to cultivate the diversity continually lacking in computer science and data science.
+
+
+::: center-text
+[{{< fa tv title="A television screen" >}} slides](https://docs.google.com/presentation/d/1kZgnvc5whhFd-zHjixvYktAgy1BM-pIRJEjK79vopNs/edit?usp=sharing){.btn role="button" target="_blank"} [{{< fa paper title="A written paper" >}} slides](https://doi.org/10.1145/3587102.3588816){.btn role="button" target="_blank"}
+:::
+
+# Audience
+
+This presentation was presented at the [2023 International Conference on Innovation and Technology in Computer Science Education (ITiCSE)](https://iticse.acm.org/2023/). 
+

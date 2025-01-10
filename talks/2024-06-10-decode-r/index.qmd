@@ -14,7 +14,7 @@ author:
     affiliation-url: https://statistics.calpoly.edu/allison-theobold
 date: 2024-06-10
 slug: ecots2024decoder
-categories: [R]
+categories: [R, data science education]
 image: decode-r.jpeg
 ---
 

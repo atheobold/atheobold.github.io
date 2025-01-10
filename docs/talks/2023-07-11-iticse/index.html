@@ -6,12 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Kelly Bodwin">
 <meta name="author" content="Allison Theobold">
-<meta name="dcterms.date" content="2024-06-10">
-<meta name="description" content="a talk about gamful activities where students solve puzzles while learning to program in R">
+<meta name="dcterms.date" content="2023-07-11">
+<meta name="description" content="a talk about using ungrading in an introductory data science course">
 
-<title>DecodeR: Gameful Activities for Introductory Programming – atheobold.github.io</title>
+<title>Human Centered Data Science – atheobold.github.io</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -160,33 +159,23 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">DecodeR: Gameful Activities for Introductory Programming</h1>
+<h1 class="title">Human Centered Data Science</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">R</div>
+    <div class="quarto-category">equitable pedagogy</div>
     <div class="quarto-category">data science education</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    <p>a talk about gamful activities where students solve puzzles while learning to program in R</p>
+    <p>a talk about using ungrading in an introductory data science course</p>
   </div>
 </div>
 
 <div class="quarto-title-meta-author column-page-left">
-  <div class="quarto-title-meta-heading">Authors</div>
-  <div class="quarto-title-meta-heading">Affiliations</div>
+  <div class="quarto-title-meta-heading">Author</div>
+  <div class="quarto-title-meta-heading">Affiliation</div>
   
-    <div class="quarto-title-meta-contents">
-    <p class="author"><a href="https://www.kelly-bodwin.com/">Kelly Bodwin</a> </p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            <a href="https://statistics.calpoly.edu/Kelly-Bodwin">
-            Cal Poly, SLO
-            </a>
-          </p>
-      </div>
     <div class="quarto-title-meta-contents">
     <p class="author"><a href="https://atheobold.github.io/">Allison Theobold</a> <a href="https://orcid.org/0000-0002-8092-6182" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
   </div>
@@ -205,7 +194,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">June 10, 2024</p>
+      <p class="date">July 11, 2023</p>
     </div>
   </div>
   
@@ -217,23 +206,21 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<!-- Gameful learning—incorporating game characteristics into learning activities—promote a greater intrinsic motivation with students and -->
-<!-- help to create an environment where students expend serious effort, act creatively, take risks, and collaborate.  -->
 <center>
-<iframe class="slide-deck" src="https://atheobold.github.io/ecots-decodeR/ecots-presentation.html" title="decodeR" width="750px," height="550px">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROsiUN5AAYAF09a-NJh2XeJvJ1yHn6Tk8oHicdLBGriD78Xx7DjS2IlIAGZduBuajdeSKrybG5LwQ1/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 </iframe>
 </center>
 <p><br></p>
-<div class="center-text">
-<p><a href="https://atheobold.github.io/ecots-decodeR/ecots-presentation.html" class="btn" role="button" target="_blank"><i class="fa-solid fa-tv" title="A television screen" aria-label="tv"></i> slides</a> <a href="https://github.com/atheobold/ecots-decodeR" class="btn" role="button" target="_blank"><i class="fa-brands fa-github" title="Octocat, the GitHub logo" aria-label="github"></i> source code</a></p>
-</div>
 <section id="abstract" class="level1">
 <h1>Abstract</h1>
-<p>Gamification—integrating game elements (e.g., badges, levels, leaderboards) to trigger extrinsic motivation—has been lauded for increasing student engagement and motivation. While gamification may create a more engaging educational environment, the use of game related mechanics fosters a competitive system where students compete for the top “prize.” Alternatively, gameful learning—incorporating game characteristics into learning activities—promote greater intrinsic motivation. These gameful activities create an environment where students expend serious effort, act creatively, take risks, and collaborate.</p>
+<p>The COVID-19 pandemic caused the flaws of traditional grading systems to become even more apparent. In response, a growing number of educators are transitioning their classrooms to focus on alternative methods of assessment. These subversive methods promote more equitable assessments, as they provide a more accurate picture of what a student has learned, cultivate students’ intrinsic motivation, and do not privilege students from certain backgrounds. This article details how alternative grading, specifically “ungrading,” was integrated into an introductory data science course. I detail how the course components align with the principles of alternative grading, students’ responses to the course structure, and the lessons I learned along the way. Finally, I close with a discussion of how infusing alternative methods of assessment into the classroom stands to cultivate the diversity continually lacking in computer science and data science.</p>
+<div class="center-text">
+<p><a href="https://docs.google.com/presentation/d/1kZgnvc5whhFd-zHjixvYktAgy1BM-pIRJEjK79vopNs/edit?usp=sharing" class="btn" role="button" target="_blank"><i class="fa-solid fa-tv" title="A television screen" aria-label="tv"></i> slides</a> <a href="https://doi.org/10.1145/3587102.3588816" class="btn" role="button" target="_blank"><i class="fa-solid fa-paper" title="A written paper" aria-label="paper"></i> slides</a></p>
+</div>
 </section>
 <section id="audience" class="level1">
 <h1>Audience</h1>
-<p>These materials are geared toward anyone teaching introductory programming in R. I’ve linked the GitHub repository with the activities, and we are happy to have people contribute more activities!</p>
+<p>This presentation was presented at the <a href="https://iticse.acm.org/2023/">2023 International Conference on Innovation and Technology in Computer Science Education (ITiCSE)</a>.</p>
 
 
 </section>
