@@ -11,7 +11,7 @@ author:
 date: 2024-08-10
 slug: jsm2024
 categories: [equitable pedagogy, assessment]
-image: voice-megaphone.png
+image: stack-papers.jpg
 ---
 
 <center>
