@@ -1,0 +1,66 @@
+---
+title: "STAT 331 / 531 - Statistical Computing in R"
+description: |
+  a 4-unit course on working with data in R, writing user-defined functions, and iteration
+categories: [Cal Poly, R, tidyverse, data science]
+image: r-flowers.png
+draft: false
+---
+
+[{{< fa window-maximize >}} course website](https://atheobold.github.io/groupworthy-data-science/){.btn target=_blank} [{{< fa school >}} course catalog](https://catalog.calpoly.edu/search/?P=stat+331){.btn target=_blank}
+
+<br>
+
+# Course description
+
+These materials accompany the 4-unit, 2-day, hands-on coding course, [STAT 331 - Statistical Computing in R](https://atheobold.github.io/groupworthy-data-science/), offered through the [Bachelors of Science in Statistics](https://statistics.calpoly.edu/content/curriculum).
+
+In this course, students learn how to work with data in R 
+using the [`{tidyverse}`](https://www.tidyverse.org/) set of package. Specifically, students build proficiency with the `{readr}`, `{readxl}`, `{ggplot}`, `{dplyr}`, `{tidyr}`, `{forcats}`, `{lubridate}`, `{janitor}` and `{stringr}` packages. Students learn to write their own, user-defined functions. The course ends with students exploring how to iterate functions over multiple inputs with the `{purrr}`package. Throughout the course, students create professional-looking Quarto documents and build proficiency working with GitHub.
+
+<br>
+
+::: columns
+::: {.column width="30%"}
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+#| out-width: "75%"
+knitr::include_graphics("tidyverse-hex.png")
+```
+:::
+
+::: {.column width="3%"}
+
+:::
+
+::: {.column width="30%"}
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+#| out-width: "75%"
+knitr::include_graphics("quarto.png")
+```
+:::
+
+::: {.column width="3%"}
+:::
+
+::: {.column width="30%"}
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+
+knitr::include_graphics("github.png")
+```
+:::
+:::
+
+
+
+# When is this taught?
+
+At Cal Poly, this course is taught every quarter, typically alternating between Statistics faculty and Computer Science faculty. I expect to teach this course at some point in the academic year, so the materials should be updated at least once annually. 

@@ -53,7 +53,7 @@
     "href": "courses.html",
     "title": "courses",
     "section": "",
-    "text": "DATA 301 - Introduction to Data Science\n\n\n\nCal Poly\n\n\nPython\n\n\ndata science\n\n\n\na 5-unit course on working with data in Python, including various machine learning / statistical learning techniques\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "STAT 331 / 531 - Statistical Computing in R\n\n\n\nCal Poly\n\n\nR\n\n\ntidyverse\n\n\ndata science\n\n\n\na 4-unit course on working with data in R, writing user-defined functions, and iteration\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDATA 301 - Introduction to Data Science\n\n\n\nCal Poly\n\n\nPython\n\n\ndata science\n\n\n\na 5-unit course on working with data in Python, including various machine learning / statistical learning techniques\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "talks.html",
@@ -110,5 +110,12 @@
     "title": "I am always interested in talking about",
     "section": "Professional Honors & Awards",
     "text": "Professional Honors & Awards\nAllison was selected as the 2022 American Statistical Association’s Pride Scholarship recipient. Allison was also selected as an ASA StatsForward Fellow for the inagural 2024 cohort.\nAllison has contributed to integrating equity into the statistics education by being part of the GAISE revision committee, and the Bill & Melinda Gates Statistics High School Pathways curricular team."
+  },
+  {
+    "objectID": "courses/2024-08-23-stat-331/index.html",
+    "href": "courses/2024-08-23-stat-331/index.html",
+    "title": "STAT 331 / 531 - Statistical Computing in R",
+    "section": "",
+    "text": "course website  course catalog\n\n\nCourse description\nThese materials accompany the 4-unit, 2-day, hands-on coding course, STAT 331 - Statistical Computing in R, offered through the Bachelors of Science in Statistics.\nIn this course, students learn how to work with data in R using the {tidyverse} set of package. Specifically, students build proficiency with the {readr}, {readxl}, {ggplot}, {dplyr}, {tidyr}, {forcats}, {lubridate}, {janitor} and {stringr} packages. Students learn to write their own, user-defined functions. The course ends with students exploring how to iterate functions over multiple inputs with the {purrr}package. Throughout the course, students create professional-looking Quarto documents and build proficiency working with GitHub.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhen is this taught?\nAt Cal Poly, this course is taught every quarter, typically alternating between Statistics faculty and Computer Science faculty. I expect to teach this course at some point in the academic year, so the materials should be updated at least once annually."
   }
 ]
