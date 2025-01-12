@@ -1,0 +1,63 @@
+---
+title: "STAT 313 - Applied Experimental Design and Regression Models"
+description: |
+  a 4-unit course on fitting and interpreting regression and ANOVA models, while also dedicating time toward learning how to prepare data for analysis in R
+categories: [Cal Poly, R, tidyverse, intermediate statistics]
+image: r-flowers.png
+draft: false
+---
+
+[{{< fa window-maximize >}} course website](https://atheobold.github.io/stat-313-website/){.btn target=_blank} [{{< fa school >}} course catalog](https://catalog.calpoly.edu/search/?P=stat+331){.btn target=_blank}
+
+<br>
+
+# Course description
+
+These materials accompany the 4-unit, 2-day, second course in statistics, [STAT 313 - Applied Experimental Design and Regression Models](https://atheobold.github.io/stat-313-website/), offered through the [Minor in Statistics](https://statistics.calpoly.edu/content/minors).
+
+In this course, students learn how to prepare data for analysis using the [`{tidyverse}`](https://www.tidyverse.org/) set of R package. Specifically, students build proficiency with the `{dplyr}` and `{ggplot2}` packages. Students then use the [`{infer}`](https://infer.netlify.app/) package to fit various regression and ANOVA models, using both simulation-based and theoretical methods. Throughout the course, students use Quarto to create professional-looking statistical reports. 
+
+<br>
+
+::: columns
+::: {.column width="30%"}
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+#| out-width: "75%"
+knitr::include_graphics("tidyverse-hex.png")
+```
+:::
+
+::: {.column width="3%"}
+
+:::
+
+::: {.column width="30%"}
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+#| out-width: "75%"
+knitr::include_graphics("quarto.png")
+```
+:::
+
+::: {.column width="3%"}
+:::
+
+::: {.column width="30%"}
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+#| out-width: "75%"
+knitr::include_graphics("infer-logo.png")
+```
+:::
+:::
+
+# When is this taught?
+
+At Cal Poly, this course is taught every quarter. I expect to teach this course at some point in the academic year, so the materials should be updated at least once annually. 
