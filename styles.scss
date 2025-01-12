@@ -80,6 +80,26 @@ h1, h2 {
   color: $pink;
 }
 
+// button icon size (landing page)
+.bi { 
+  font-size: 18px;
+}
+
+// listing card styling
+.card {
+  background-color: $beige;
+  //border-radius: 5.25em;
+}
+
+.callout.callout-style-default .callout-body {
+  background-color: $beige;
+}
+
+// listing description text styling
+.description {
+  font-size: 25px;
+}
+
 // responisve embedded slides (thanks Casey O'Hara; see https://github.com/nceas-learning-hub/coreR_test/blob/main/lh-style.css)
 .slide-deck{
   border: 3px solid #dee2e6;

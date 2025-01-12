@@ -1,0 +1,65 @@
+---
+title: "DATA 301 - Introduction to Data Science"
+description: |
+  a 5-unit course on working with data in Python, including various machine learning / statistical learning techniques
+categories: [Cal Poly, Python, data science]
+image: allison-horst-black.jpg
+draft: false
+---
+
+[{{< fa window-maximize >}} course website](https://atheobold.github.io/data-301/){.btn target=_blank} [{{< fa school >}} course catalog](https://catalog.calpoly.edu/search/?P=DATA+301){.btn target=_blank}
+
+<br>
+
+# Course description
+
+These materials accompany the 5-unit, 2-day, hands-on coding course, [DATA 301 - Introduction to Data Science](https://atheobold.github.io/data-301/), offered through the [Cross Disciplinary Minor in Data Science](https://statistics.calpoly.edu/data-science-minor).
+
+In this course, students learn how to work with data in Python using [`{pandas}`](https://pandas.pydata.org/), create visualizations using [`{plotnine}`](https://plotnine.org/), and fit various supervised and unsupervised learning models using [`{scikitlearn}`](https://scikit-learn.org/stable/). 
+
+<br>
+
+::: columns
+::: {.column width="30%"}
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+#| out-width: "75%"
+knitr::include_graphics("pandas_logo.webp")
+```
+:::
+
+::: {.column width="3%"}
+
+:::
+
+::: {.column width="30%"}
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+#| out-width: "50%"
+knitr::include_graphics("plotnine.png")
+```
+:::
+
+::: {.column width="3%"}
+:::
+
+::: {.column width="30%"}
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+#| out-width: "75%"
+knitr::include_graphics("scikit-learn.png")
+```
+:::
+:::
+
+
+
+# When is this taught?
+
+At Cal Poly, this course is taught every quarter, typically alternating between Statistics faculty and Computer Science faculty. I expect to teach this course at some point in the academic year, so the materials should be updated at least once annually. 

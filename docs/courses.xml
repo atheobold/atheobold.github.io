@@ -10,6 +10,74 @@
 <atom:link href="https://atheobold.github.io/courses.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Fri, 10 Jan 2025 15:59:26 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Jan 2025 15:08:26 GMT</lastBuildDate>
+<item>
+  <title>DATA 301 - Introduction to Data Science</title>
+  <link>https://atheobold.github.io/courses/2025-01-06-data-301/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://atheobold.github.io/data-301/" class="btn" target="_blank"><i class="fa-solid fa-window-maximize" aria-label="window-maximize"></i> course website</a> <a href="https://catalog.calpoly.edu/search/?P=DATA+301" class="btn" target="_blank"><i class="fa-solid fa-school" aria-label="school"></i> course catalog</a></p>
+<p><br></p>
+<section id="course-description" class="level1">
+<h1>Course description</h1>
+<p>These materials accompany the 5-unit, 2-day, hands-on coding course, <a href="https://atheobold.github.io/data-301/">DATA 301 - Introduction to Data Science</a>, offered through the <a href="https://statistics.calpoly.edu/data-science-minor">Cross Disciplinary Minor in Data Science</a>.</p>
+<p>In this course, students learn how to work with data in Python using <a href="https://pandas.pydata.org/"><code>{pandas}</code></a>, create visualizations using <a href="https://plotnine.org/"><code>{plotnine}</code></a>, and fit various supervised and unsupervised learning models using <a href="https://scikit-learn.org/stable/"><code>{scikitlearn}</code></a>.</p>
+<p><br></p>
+<div class="columns">
+<div class="column" style="width:30%;">
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://atheobold.github.io/courses/2025-01-06-data-301/pandas_logo.webp" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:75.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+</div><div class="column" style="width:3%;">
+
+</div><div class="column" style="width:30%;">
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://atheobold.github.io/courses/2025-01-06-data-301/plotnine.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+</div><div class="column" style="width:3%;">
+
+</div><div class="column" style="width:30%;">
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://atheobold.github.io/courses/2025-01-06-data-301/scikit-learn.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:75.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="when-is-this-taught" class="level1">
+<h1>When is this taught?</h1>
+<p>At Cal Poly, this course is taught every quarter, typically alternating between Statistics faculty and Computer Science faculty. I expect to teach this course at some point in the academic year, so the materials should be updated at least once annually.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Cal Poly</category>
+  <category>Python</category>
+  <category>data science</category>
+  <guid>https://atheobold.github.io/courses/2025-01-06-data-301/</guid>
+  <pubDate>Sun, 12 Jan 2025 15:08:26 GMT</pubDate>
+  <media:content url="https://atheobold.github.io/courses/2025-01-06-data-301/allison-horst-black.jpg" medium="image" type="image/jpeg"/>
+</item>
 </channel>
 </rss>
