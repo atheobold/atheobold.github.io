@@ -1,7 +1,7 @@
 ---
 title: "STAT 541 - Advanced Statistical Computing in R"
 description: |
-  a 4-unit second course on computing in R, covering various topics on iterative programming
+  a 4-unit second course on computing in R, covering various "advanced" methods in R
 categories: [Cal Poly, R, data science]
 image: cat-monsters-horst.png
 draft: false
@@ -10,20 +10,16 @@ draft: false
 ::: {.callout-warning}
 # Updates coming!
 
-This course is being updated to be taught in March 2025. Check back soon!
+This course is being updated to be taught in late March 2025. Check back soon!
 :::
 
-[{{< fa window-maximize >}} course materials](https://github.com/atheobold/stat-541){.btn target="_blank"} [{{< fa school >}} course catalog](https://catalog.calpoly.edu/search/?P=stat+541){.btn target="_blank"}
-
-<br>
+[{{< fa brands github title="Octocat, the GitHub logo" >}} course materials](https://github.com/atheobold/stat-541){.btn target="_blank"} [{{< fa school >}} course catalog](https://catalog.calpoly.edu/search/?P=stat+541){.btn target="_blank"}
 
 # Course description
 
-These materials accompany the 4-unit, 2-day, hands-on coding course, [STAT 331 - Statistical Computing in R](https://atheobold.github.io/groupworthy-data-science/), offered through the [Bachelors of Science in Statistics](https://statistics.calpoly.edu/content/curriculum).
+These materials accompany the 4-unit, 2-day, hands-on coding course, [STAT 541 - Advanced Statistical Computing in R](https://github.com/atheobold/stat-541), offered through the [Masters in Statistics](https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/statistics/#graduatetext).
 
-In this course, students learn how to work with data in R using the [`{tidyverse}`](https://www.tidyverse.org/) set of package. Specifically, students build proficiency with the `{readr}`, `{readxl}`, `{ggplot}`, `{dplyr}`, `{tidyr}`, `{forcats}`, `{lubridate}`, `{janitor}` and `{stringr}` packages. Students learn to write their own, user-defined functions. The course ends with students exploring how to iterate functions over multiple inputs with the `{purrr}`package. Throughout the course, students create professional-looking Quarto documents and build proficiency working with GitHub.
-
-<br>
+In this course, students dive deeper into the statistical computing concepts they were introduced to in their [STAT 331 course](../2024-08-23-stat-331/index.qmd). Students explore more advanced visualization methods using `{leaflet}` and `{gganimate}`, learn how to create dashboards with `{shiny}`, retrieve data from APIs, scrape data from the web using `{rvest}` and `{httr2}`, create their own R packages with the help of `{usethis}`, and generate fun works of art. The later topics require an understanding of iterative programming, and makes use of the`{purrr}` package.  
 
 :::::::: columns
 ::: {.column width="24%"}
@@ -72,7 +68,7 @@ knitr::include_graphics("rvest.png")
 #| fig-align: "center"
 #| out-width: "75%"
 
-knitr::include_graphics("httr2.png")
+knitr::include_graphics("gganimate.png")
 ```
 :::
 ::::::::

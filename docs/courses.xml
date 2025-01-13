@@ -10,7 +10,7 @@
 <atom:link href="https://atheobold.github.io/courses.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Mon, 13 Jan 2025 15:21:48 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Jan 2025 15:51:24 GMT</lastBuildDate>
 <item>
   <title>STAT 313 - Applied Experimental Design and Regression Models</title>
   <link>https://atheobold.github.io/courses/2024-03-01-stat-313/</link>
@@ -77,7 +77,7 @@
   <category>tidyverse</category>
   <category>intermediate statistics</category>
   <guid>https://atheobold.github.io/courses/2024-03-01-stat-313/</guid>
-  <pubDate>Mon, 13 Jan 2025 15:21:48 GMT</pubDate>
+  <pubDate>Mon, 13 Jan 2025 15:51:24 GMT</pubDate>
   <media:content url="https://atheobold.github.io/courses/2024-03-01-stat-313/dragon-prediction-horst.png" medium="image" type="image/png" height="98" width="144"/>
 </item>
 <item>
@@ -158,7 +158,7 @@
   <category>tidyverse</category>
   <category>data science</category>
   <guid>https://atheobold.github.io/courses/2023-08-20-stat-551/</guid>
-  <pubDate>Mon, 13 Jan 2025 15:21:48 GMT</pubDate>
+  <pubDate>Mon, 13 Jan 2025 15:51:24 GMT</pubDate>
   <media:content url="https://atheobold.github.io/courses/2023-08-20-stat-551/unicorn-confusion-horst.png" medium="image" type="image/png" height="131" width="144"/>
 </item>
 <item>
@@ -227,7 +227,7 @@
   <category>tidyverse</category>
   <category>data science</category>
   <guid>https://atheobold.github.io/courses/2024-08-23-stat-331/</guid>
-  <pubDate>Mon, 13 Jan 2025 15:21:48 GMT</pubDate>
+  <pubDate>Mon, 13 Jan 2025 15:51:24 GMT</pubDate>
   <media:content url="https://atheobold.github.io/courses/2024-08-23-stat-331/r-flowers.png" medium="image" type="image/png" height="85" width="144"/>
 </item>
 <item>
@@ -248,16 +248,14 @@ Updates coming!
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>This course is being updated to be taught in March 2025. Check back soon!</p>
+<p>This course is being updated to be taught in late March 2025. Check back soon!</p>
 </div>
 </div>
-<p><a href="https://github.com/atheobold/stat-541" class="btn" target="_blank"><i class="fa-solid fa-window-maximize" aria-label="window-maximize"></i> course materials</a> <a href="https://catalog.calpoly.edu/search/?P=stat+541" class="btn" target="_blank"><i class="fa-solid fa-school" aria-label="school"></i> course catalog</a></p>
-<p><br></p>
+<p><a href="https://github.com/atheobold/stat-541" class="btn" target="_blank"><i class="fa-brands fa-github" title="Octocat, the GitHub logo" aria-label="github"></i> course materials</a> <a href="https://catalog.calpoly.edu/search/?P=stat+541" class="btn" target="_blank"><i class="fa-solid fa-school" aria-label="school"></i> course catalog</a></p>
 <section id="course-description" class="level1">
 <h1>Course description</h1>
-<p>These materials accompany the 4-unit, 2-day, hands-on coding course, <a href="https://atheobold.github.io/groupworthy-data-science/">STAT 331 - Statistical Computing in R</a>, offered through the <a href="https://statistics.calpoly.edu/content/curriculum">Bachelors of Science in Statistics</a>.</p>
-<p>In this course, students learn how to work with data in R using the <a href="https://www.tidyverse.org/"><code>{tidyverse}</code></a> set of package. Specifically, students build proficiency with the <code>{readr}</code>, <code>{readxl}</code>, <code>{ggplot}</code>, <code>{dplyr}</code>, <code>{tidyr}</code>, <code>{forcats}</code>, <code>{lubridate}</code>, <code>{janitor}</code> and <code>{stringr}</code> packages. Students learn to write their own, user-defined functions. The course ends with students exploring how to iterate functions over multiple inputs with the <code>{purrr}</code>package. Throughout the course, students create professional-looking Quarto documents and build proficiency working with GitHub.</p>
-<p><br></p>
+<p>These materials accompany the 4-unit, 2-day, hands-on coding course, <a href="https://github.com/atheobold/stat-541">STAT 541 - Advanced Statistical Computing in R</a>, offered through the <a href="https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/statistics/#graduatetext">Masters in Statistics</a>.</p>
+<p>In this course, students dive deeper into the statistical computing concepts they were introduced to in their <a href="../../courses/2024-08-23-stat-331/index.html">STAT 331 course</a>. Students explore more advanced visualization methods using <code>{leaflet}</code> and <code>{gganimate}</code>, learn how to create dashboards with <code>{shiny}</code>, retrieve data from APIs, scrape data from the web using <code>{rvest}</code> and <code>{httr2}</code>, create their own R packages with the help of <code>{usethis}</code>, and generate fun works of art. The later topics require an understanding of iterative programming, and makes use of the<code>{purrr}</code> package.</p>
 <div class="columns">
 <div class="column" style="width:24%;">
 <div class="cell" data-layout-align="center">
@@ -300,7 +298,7 @@ Updates coming!
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://atheobold.github.io/courses/2024-03-01-stat-541/httr2.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:75.0%"></p>
+<p><img src="https://atheobold.github.io/courses/2024-03-01-stat-541/gganimate.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:75.0%"></p>
 </figure>
 </div>
 </div>
@@ -320,7 +318,7 @@ Updates coming!
   <category>R</category>
   <category>data science</category>
   <guid>https://atheobold.github.io/courses/2024-03-01-stat-541/</guid>
-  <pubDate>Mon, 13 Jan 2025 15:21:48 GMT</pubDate>
+  <pubDate>Mon, 13 Jan 2025 15:51:24 GMT</pubDate>
   <media:content url="https://atheobold.github.io/courses/2024-03-01-stat-541/cat-monsters-horst.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
@@ -388,7 +386,7 @@ Updates coming!
   <category>Python</category>
   <category>data science</category>
   <guid>https://atheobold.github.io/courses/2025-01-06-data-301/</guid>
-  <pubDate>Mon, 13 Jan 2025 15:21:48 GMT</pubDate>
+  <pubDate>Mon, 13 Jan 2025 15:51:24 GMT</pubDate>
   <media:content url="https://atheobold.github.io/courses/2025-01-06-data-301/allison-horst-black.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>

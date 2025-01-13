@@ -7,7 +7,7 @@ image: unicorn-confusion-horst.png
 draft: false
 ---
 
-[{{< fa window-maximize >}} course materials](https://github.com/atheobold/stat-learning){.btn target="_blank"} [{{< fa school >}} course catalog](https://catalog.calpoly.edu/search/?P=stat+551){.btn target="_blank"}
+[{{< fa brands github title="Octocat, the GitHub logo" >}} course materials](https://github.com/atheobold/stat-learning){.btn target="_blank"} [{{< fa school >}} course catalog](https://catalog.calpoly.edu/search/?P=stat+551){.btn target="_blank"}
 
 <br>
 
