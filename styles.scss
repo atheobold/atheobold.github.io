@@ -44,7 +44,7 @@ h1, h2 {
 
 // landing page text
 #bio {
-  font-size: 1.1em;
+  font-size: 1.25em;
 }
 
 // landing page icon size
@@ -53,7 +53,7 @@ h1, h2 {
   color: $dark-blue;
 }
 
-/* CLASS SELECTORS (copied from inspecting site -- Quarto defined?) */
+/* CLASS SELECTORS */
 
 .cursive { 
   font-family: $satisfy;
@@ -81,6 +81,7 @@ h1, h2 {
 }
 
 // button icon size (landing page)
+// github and linkedin buttons
 .bi { 
   font-size: 18px;
 }
@@ -88,16 +89,11 @@ h1, h2 {
 // listing card styling
 .card {
   background-color: $beige;
-  //border-radius: 5.25em;
-}
-
-.callout.callout-style-default .callout-body {
-  background-color: $beige;
 }
 
 // listing description text styling
 .description {
-  font-size: 25px;
+  font-size: 20px;
 }
 
 // responisve embedded slides (thanks Casey O'Hara; see https://github.com/nceas-learning-hub/coreR_test/blob/main/lh-style.css)

@@ -18,10 +18,10 @@ about:
 
 ::: {#bio}
 ::: {.cursive}
-#### Hello there! I'm Allison Theobold. Professionally, I love **teaching data science** skills and learning how to make my classroom **inclusive of a diverse set of learners**. Outside of work, I love being outside, cooking, watching womens basketball, traveling, and enjoying a good cup of coffee. Poke around to learn a bit more about me and my work!
+Hello there! I'm Allison Theobold. Professionally, I love **teaching data science** skills and learning how to make my classroom **inclusive of a diverse set of learners**. Outside of work, I love being outside, cooking, watching womens basketball, traveling, and enjoying a good cup of coffee. Poke around to learn a bit more about me and my work!
 :::
 :::
 
 ::: {#landing-icons}
-[{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/allison-theobold-1ba0191a8/){target="_blank"} &nbsp; [{{< fa brands github title="github" >}}](https://github.com/atheobold){target="_blank"} &nbsp; [{{< fa brands bluesky title="bluesky" >}}](https://bsky.app/profile/samcsik.bsky.social){target="_blank"} &nbsp; [{{< fa envelope title="envelope" >}}](mailto:atheobol@calpoly.edu)
+[{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/allison-theobold-1ba0191a8/){target="_blank"} &nbsp; [{{< fa brands github title="github" >}}](https://github.com/atheobold){target="_blank"} &nbsp; [{{< fa envelope title="envelope" >}}](mailto:atheobol@calpoly.edu)
 :::
