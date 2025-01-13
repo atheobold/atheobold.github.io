@@ -1,9 +1,10 @@
 ---
 editor: source
+toc: false
 ---
 
 ::: columns
-::: {.column width="50%"}
+::: {.column width="60%"}
 # [I am always interested in talking about]{.pink-text}
 
 - researching how students collaborate in-class
@@ -12,17 +13,18 @@ editor: source
 - alternative ways to assess students' learning
 - [R-Ladies](https://rladies.org/)
 - [RainbowR](https://rainbowr.org/)
-- Disney Land
+- Disneyland
 
 # [over coffee]{.pink-text}
-
 :::
 
 ::: {.column width="5%"}
 :::
 
-::: {.column width="45%"}
-![](media/office-head-shot.jpg){width=250}
+::: {.column width="35%"}
+</br>
+
+![](media/office-head-shot.jpg){width=200}
 :::
 :::
 
@@ -40,7 +42,6 @@ Allison also co-organizes the [Preparing to Teach Statistics and Data Science Wo
 
 ## Professional Honors & Awards
 
-Allison was selected as the 2022 American Statistical Association’s [Pride Scholarship recipient](https://www.amstat.org/2022-pride-scholarship-goes-to-three-diversity-champions). Allison was also selected as an ASA StatsForward Fellow for the inagural 2024 cohort.
+Allison was selected as the 2022 American Statistical Association’s [Pride Scholarship recipient](https://www.amstat.org/2022-pride-scholarship-goes-to-three-diversity-champions). Allison was also selected as an ASA StatsForward Fellow for the inaugural 2024 cohort.
 
-Allison has contributed to integrating equity into the statistics education by being part of the GAISE revision committee, and the Bill & Melinda Gates Statistics High School Pathways curricular team. 
-
+Allison has contributed to integrating equity into statistics education by being part of the 2025 GAISE revision committee, and the Bill & Melinda Gates Statistics High School Pathways curricular team. 
