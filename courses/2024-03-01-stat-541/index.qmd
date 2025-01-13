@@ -7,7 +7,7 @@ image: cat-monsters-horst.png
 draft: false
 ---
 
-::: {.callout-warning}
+::: callout-warning
 # Updates coming!
 
 This course is being updated to be taught in late March 2025. Check back soon!
@@ -19,9 +19,9 @@ This course is being updated to be taught in late March 2025. Check back soon!
 
 These materials accompany the 4-unit, 2-day, hands-on coding course, [STAT 541 - Advanced Statistical Computing in R](https://github.com/atheobold/stat-541), offered through the [Masters in Statistics](https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/statistics/#graduatetext).
 
-In this course, students dive deeper into the statistical computing concepts they were introduced to in their [STAT 331 course](../2024-08-23-stat-331/index.qmd). Students explore more advanced visualization methods using `{leaflet}` and `{gganimate}`, learn how to create dashboards with `{shiny}`, retrieve data from APIs, scrape data from the web using `{rvest}` and `{httr2}`, create their own R packages with the help of `{usethis}`, and generate fun works of art. The later topics require an understanding of iterative programming, and makes use of the`{purrr}` package.  
+In this course, students dive deeper into the statistical computing concepts they were introduced to in their [STAT 331 course](../2024-08-23-stat-331/index.qmd). Students explore more advanced visualization methods using `{leaflet}` and `{gganimate}`, learn how to create dashboards with `{shiny}`, retrieve data from APIs, scrape data from the web using `{rvest}` and `{httr2}`, create their own R packages with the help of `{usethis}`, and generate fun works of art. The later topics require an understanding of iterative programming, and makes use of the`{purrr}` package.
 
-:::::::: columns
+:::::::::: columns
 ::: {.column width="24%"}
 ```{r}
 #| eval: true
@@ -71,8 +71,8 @@ knitr::include_graphics("rvest.png")
 knitr::include_graphics("gganimate.png")
 ```
 :::
-::::::::
+::::::::::
 
 # When is this taught?
 
-At Cal Poly, this course is taught every spring quarter. There are a few of us who alternate teaching the course, so I may end up taking a break in the next few years. 
+At Cal Poly, this course is taught every spring quarter. There are a few of us who alternate teaching the course, so I may end up taking a break in the next few years.
