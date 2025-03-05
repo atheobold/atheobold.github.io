@@ -20,7 +20,7 @@ website:
       - text: "{{< fa chalkboard-user >}} Talks"
         href: talks.qmd
       - text: "{{< fa chart-line >}} Lab"
-        href: lab.qmd
+        href: https://atheobold.github.io/theobold-data-science-lab/
       - text: "{{< fa paperclip >}} Vitae"
         href: media/cv-jan-7-2025.pdf
       - text: "{{< fa paper-plane >}} Contact"
