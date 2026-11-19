@@ -1,17 +1,10 @@
 [
   {
-    "listing": "/courses.html",
-    "items": [
-      "/courses/2024-03-01-stat-313/index.html",
-      "/courses/2023-08-20-stat-551/index.html",
-      "/courses/2024-08-23-stat-331/index.html",
-      "/courses/2024-03-01-stat-541/index.html",
-      "/courses/2025-01-06-data-301/index.html"
-    ]
-  },
-  {
     "listing": "/talks.html",
     "items": [
+      "/talks/2026-07-17-icots/index.html",
+      "/talks/2025-07-15-uscots-workshop/index.html",
+      "/talks/2025-07-17-uscots-research/index.html",
       "/talks/2024-08-08-assessment-at-scale-discussion/index.html",
       "/talks/2024-06-10-decode-r/index.html",
       "/talks/2024-05-13-beyond-achievement/index.html",
@@ -22,6 +15,16 @@
       "/talks/2023-07-11-iticse/index.html",
       "/talks/2023-06-01-uscots-inclusion/index.html",
       "/talks/2023-05-31-uscots-quarto/index.html"
+    ]
+  },
+  {
+    "listing": "/courses.html",
+    "items": [
+      "/courses/2024-03-01-stat-313/index.html",
+      "/courses/2023-08-20-stat-551/index.html",
+      "/courses/2024-08-23-stat-331/index.html",
+      "/courses/2024-03-01-stat-541/index.html",
+      "/courses/2025-01-06-data-301/index.html"
     ]
   }
 ]

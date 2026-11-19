@@ -10,7 +10,103 @@
 <atom:link href="https://atheobold.github.io/talks.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Sat, 10 Aug 2024 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Landscape of Critical Quantitative Methods Instruction in Statistics Education</title>
+  <dc:creator>Allison Theobold</dc:creator>
+  <link>https://atheobold.github.io/talks/2026-07-17-icots/</link>
+  <description><![CDATA[ 
+
+
+
+
+<center>
+<iframe src="https://docs.google.com/presentation/d/1hiQp8a5B6u438tQJUHAftKH6vGRM-D7RwhU19rzbYLM/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="750px," height="550px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
+</center>
+<p><br></p>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>Over the last five years, statistics has shifted from framing ethics as procedural compliance (e.g., p-hacking, reproducibility, data privacy) to centering the social consequences of statistical practice, particularly for marginalized communities. Yet, despite this shift, statistics curricula rarely train students to reflect on how analyses may produce disparate impacts across groups. Such reflection is foundational to critical theories, long-standing approaches in the humanities and social sciences. Although often associated with qualitative research, critical theories are increasingly applied in quantitative work. In this talk, we overview the landscape of critical methods in statistics and data science curricula and offer practical, accessible strategies for integrating critical quantitative ideas into courses, especially for instructors new to critical theories at the undergraduate and graduate levels across institutions internationally.</p>
+</section>
+<section id="audience" class="level1">
+<h1>Audience</h1>
+<p>This presentation was presented at the <a href="https://iticse.acm.org/2023/">2026 International Conference on Teaching Statistics (ICOTS)</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>data feminism</category>
+  <guid>https://atheobold.github.io/talks/2026-07-17-icots/</guid>
+  <pubDate>Fri, 17 Jul 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://atheobold.github.io/talks/2026-07-17-icots/web-debois-graph.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Teaching intermediate R</title>
+  <dc:creator>Allison Theobold</dc:creator>
+  <link>https://atheobold.github.io/talks/2025-07-15-uscots-workshop/</link>
+  <description><![CDATA[ 
+
+
+
+
+<center>
+<iframe src="https://atheobold.github.io/uscots-intermediate-r/" frameborder="0" width="750px," height="550px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
+</center>
+<p><br></p>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>This 1.5 day workshop will provide structured learning goals, course material resources, and skills training for instructors of intermediate to advanced R courses. The target audience is educators who may have taught a first course in R or used it as supporting software in other statistics courses, and who are interested in teaching a second R course or beyond. We will first establish a suggested common curriculum for intermediate R based on five areas: Data types and sources beyond comma-separated files, advanced and dynamic data visualization, complexities of unclean or unstructured data, speed and efficiency concerns for large or repeated analyses, and reproducible workflow for long-term collaborative projects.</p>
+</section>
+<section id="audience" class="level1">
+<h1>Audience</h1>
+<p>This workshop was presented at the <a href="https://www.causeweb.org/cause/uscots/uscots25/program/workshops/w01">2025 US Conference on Teaching Statistics (USCOTS)</a>.</p>
+<p>In the workshop, we assumed attendees had R fluency at the level of a typical introductory course, such as the textbook R for Data Science (Wickham, Çetinkaya-Rundel, &amp; Grolemund 2023); as well as familiarity with some scattered intermediate to advanced topics, interpreted broadly. The focus of this workshop was not to provide direct training in intermediate R skills, but rather to prepare educators to deliver higher-level R courses.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>data science education; R</category>
+  <guid>https://atheobold.github.io/talks/2025-07-15-uscots-workshop/</guid>
+  <pubDate>Wed, 15 Jul 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://atheobold.github.io/talks/2025-07-15-uscots-workshop/cran-R.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Methods for Evaluating Disparities in Group Collaborations</title>
+  <dc:creator>Allison Theobold</dc:creator>
+  <link>https://atheobold.github.io/talks/2025-07-17-uscots-research/</link>
+  <description><![CDATA[ 
+
+
+
+
+<center>
+<iframe src="https://docs.google.com/presentation/d/17TX-2hS1uDC5Am7Kpj_W9mcf4jo_z4WgWS125Ysbvzs/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="750px," height="550px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
+</center>
+<p><br></p>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>Group work is one method of supporting student’s engagement and sense of belonging in undergraduate classrooms (Kuh, 2009), which may be especially important for students with marginalized identities seeking community and belonging (Ellington &amp; Frederick, 2010; Fullilove &amp; Treisman, 1990; Oppland-Cordell &amp; Martin, 2015). In Computer Science (CS) education, pair programming is a recommended pedagogical tool for enhancing students’ learning, sense of belonging, and increasing retention in CS degree programs (Salleh et al., 2011). However, researchers have found that pair programming can also be subject to inequitable interactions (Lewis &amp; Shah, 2015), contribute to disparities of power and status (Johnson, 2002), and squelch some students’ opportunities to learn and develop discipline-based identities (Langer-Osuna, 2011; 2016). These findings suggest this pedagogical tool for supporting student’s sense of belonging is in fact driving students away.&nbsp;</p>
+<p>In this presentation we share the results of our pilot study on the experiences of students with marginalized identities while collaborating in pair programming tasks in a data science classroom. Drawing on previous research on group collaborations, we will describe our data collection and analysis procedures to foster a rich discussion of the complexities involved with collecting and analyzing data on student collaborations.&nbsp;</p>
+</section>
+<section id="audience" class="level1">
+<h1>Audience</h1>
+<p>This presentation was presented at the <a href="https://www.causeweb.org/cause/uscots/uscots25/research/program">Research Satellite at the 2025 US Conference on Teaching Statistics (USCOTS)</a>, so the materials are geared toward researchers in statistics education who may or may not have experience conducting qualitative research.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>qualitative research</category>
+  <category>group collaborations</category>
+  <guid>https://atheobold.github.io/talks/2025-07-17-uscots-research/</guid>
+  <pubDate>Thu, 17 Jul 2025 07:00:00 GMT</pubDate>
+  <media:content url="https://atheobold.github.io/talks/2025-07-17-uscots-research/pair-programming-comic.png" medium="image" type="image/png" height="106" width="144"/>
+</item>
 <item>
   <title>Assessment at Scale – A Discussion</title>
   <dc:creator>Allison Theobold</dc:creator>

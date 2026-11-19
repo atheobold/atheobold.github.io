@@ -1,0 +1,33 @@
+---
+title: "Landscape of Critical Quantitative Methods Instruction in Statistics Education"
+description: |
+  a talk about how critical methods have been used in statistics education
+author:
+  - name: Allison Theobold
+    url: https://atheobold.github.io/
+    orcid: 0000-0002-8092-6182
+    affiliation: Cal Poly, SLO
+    affiliation-url: https://statistics.calpoly.edu/allison-theobold
+date: 2026-07-17
+slug: icots2026
+categories: [data feminism]
+image: web-debois-graph.jpg
+---
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/1hiQp8a5B6u438tQJUHAftKH6vGRM-D7RwhU19rzbYLM/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="750px," height="550px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+
+</iframe>
+
+</center>
+
+<br>
+
+# Abstract
+
+Over the last five years, statistics has shifted from framing ethics as procedural compliance (e.g., p-hacking, reproducibility, data privacy) to centering the social consequences of statistical practice, particularly for marginalized communities. Yet, despite this shift, statistics curricula rarely train students to reflect on how analyses may produce disparate impacts across groups. Such reflection is foundational to critical theories, long-standing approaches in the humanities and social sciences. Although often associated with qualitative research, critical theories are increasingly applied in quantitative work. In this talk, we overview the landscape of critical methods in statistics and data science curricula and offer practical, accessible strategies for integrating critical quantitative ideas into courses, especially for instructors new to critical theories at the undergraduate and graduate levels across institutions internationally.
+
+# Audience
+
+This presentation was presented at the [2026 International Conference on Teaching Statistics (ICOTS)](https://iticse.acm.org/2023/).

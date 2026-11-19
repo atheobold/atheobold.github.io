@@ -1,0 +1,35 @@
+---
+title: "Methods for Evaluating Disparities in Group Collaborations"
+description: |
+  a talk about (qualitatively) researching group collaborations
+author:
+  - name: Allison Theobold
+    url: https://atheobold.github.io/
+    orcid: 0000-0002-8092-6182
+    affiliation: Cal Poly, SLO
+    affiliation-url: https://statistics.calpoly.edu/allison-theobold
+date: 2025-07-17
+slug: uscots2026
+categories: [qualitative research, group collaborations]
+image: pair-programming-comic.png
+---
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/17TX-2hS1uDC5Am7Kpj_W9mcf4jo_z4WgWS125Ysbvzs/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="750px," height="550px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+
+</iframe>
+
+</center>
+
+<br>
+
+# Abstract
+
+Group work is one method of supporting student’s engagement and sense of belonging in undergraduate classrooms (Kuh, 2009), which may be especially important for students with marginalized identities seeking community and belonging (Ellington & Frederick, 2010; Fullilove & Treisman, 1990; Oppland-Cordell & Martin, 2015). In Computer Science (CS) education, pair programming is a recommended pedagogical tool for enhancing students’ learning, sense of belonging, and increasing retention in CS degree programs (Salleh et al., 2011). However, researchers have found that pair programming can also be subject to inequitable interactions (Lewis & Shah, 2015), contribute to disparities of power and status (Johnson, 2002), and squelch some students’ opportunities to learn and develop discipline-based identities (Langer-Osuna, 2011; 2016). These findings suggest this pedagogical tool for supporting student’s sense of belonging is in fact driving students away. 
+
+In this presentation we share the results of our pilot study on the experiences of students with marginalized identities while collaborating in pair programming tasks in a data science classroom. Drawing on previous research on group collaborations, we will describe our data collection and analysis procedures to foster a rich discussion of the complexities involved with collecting and analyzing data on student collaborations. 
+
+# Audience
+
+This presentation was presented at the [Research Satellite at the 2025 US Conference on Teaching Statistics (USCOTS)](https://www.causeweb.org/cause/uscots/uscots25/research/program), so the materials are geared toward researchers in statistics education who may or may not have experience conducting qualitative research.
