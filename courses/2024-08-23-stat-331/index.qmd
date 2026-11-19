@@ -4,6 +4,7 @@ description: |
   a 4-unit course on working with data in R, writing user-defined functions, and iteration
 categories: [Cal Poly, R, tidyverse, data science]
 image: r-flowers.png
+image-alt: "Two round blob characters decorating the logo for R (a blue letter R with a gray cirle around it). The characters are hanging flowers and painting hearts and smiley faces on the logo."
 draft: false
 ---
 
@@ -26,6 +27,7 @@ In this course, students learn how to work with data in R using the [`{tidyverse
 #| echo: false
 #| fig-align: "center"
 #| out-width: "75%"
+#| fig-alt: "the hex sticker for the tidyverse package in R, the sticker has multi-colored hexagons surrounding the tidyverse text in the center"
 knitr::include_graphics("tidyverse-hex.png")
 ```
 :::
@@ -39,6 +41,7 @@ knitr::include_graphics("tidyverse-hex.png")
 #| echo: false
 #| fig-align: "center"
 #| out-width: "75%"
+#| fig-alt: "the hex sticker for the quarto software, the sticker is blue and says quarto with a small stop sign like symbol to the left of the text"
 knitr::include_graphics("quarto.png")
 ```
 :::
@@ -51,7 +54,7 @@ knitr::include_graphics("quarto.png")
 #| eval: true
 #| echo: false
 #| fig-align: "center"
-
+#| fig-alt: "the logo for GitHub, the logo has the outline of a cat above the GitHub text"
 knitr::include_graphics("github.png")
 ```
 :::

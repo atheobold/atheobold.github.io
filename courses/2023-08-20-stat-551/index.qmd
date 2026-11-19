@@ -4,6 +4,7 @@ description: |
   a 4-unit course on predictive modeling using modern methods for regression, classification, and clustering
 categories: [Cal Poly, R, tidyverse, data science]
 image: unicorn-confusion-horst.png
+image-alt: "A graphic of four images representing a confusion matrix. The images share a similar outline (all appearing as a horse), but differ in their color (white or brown), the color of the mane (rainbow or brown), and whether they have a unicorn (yes, no, or a horn tied on)." 
 draft: false
 ---
 
@@ -15,13 +16,14 @@ These materials accompany the 4-unit, 2-day, hands-on coding course, [STAT 551 -
 
 In this course, students learn how to fit a variety of supervised and unsupervised models using the `{tidymodels}` set of packages. Specifically, students learn how to use `{recipe}` to specify the variables to be included in their model, use `{parsnip}` to set the engine to be used when fitting the model, and `{yardstick}` to assess the performance of each model.
 
-:::::::: columns
+:::::::::: columns
 ::: {.column width="24%"}
 ```{r}
 #| eval: true
 #| echo: false
 #| fig-align: "center"
 #| out-width: "75%"
+#| fig-alt: "the hex sticker for the tidymodels package in R, the hex has multiple density curves of different colors on top of the text saying tidymodels"
 knitr::include_graphics("tidymodels.png")
 ```
 :::
@@ -35,6 +37,7 @@ knitr::include_graphics("tidymodels.png")
 #| echo: false
 #| fig-align: "center"
 #| out-width: "75%"
+#| fig-alt: "the hex sticker for the recipes package in R, the hex has a similing cupcake (with arms and legs) on top of the text saying recipes"
 knitr::include_graphics("recipes.png")
 ```
 :::
@@ -48,6 +51,7 @@ knitr::include_graphics("recipes.png")
 #| echo: false
 #| fig-align: "center"
 #| out-width: "75%"
+#| fig-alt: "the hex sticker for the parsnip package in R, the hex has a smiling parsnip (a white carrot) on top of the text saying parsnip"
 knitr::include_graphics("parsnip.png")
 ```
 :::
@@ -61,11 +65,12 @@ knitr::include_graphics("parsnip.png")
 #| echo: false
 #| fig-align: "center"
 #| out-width: "75%"
+#| fig-alt: "the hex sticker for the yardstick package in R, the hex is red and has the yardstick text on top of yardstick measurements (graphically looking like a football field)"
 
 knitr::include_graphics("yardstick.png")
 ```
 :::
-::::::::
+::::::::::
 
 # When is this taught?
 

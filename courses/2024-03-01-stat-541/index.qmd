@@ -4,6 +4,7 @@ description: |
   a 4-unit second course on computing in R, covering various "advanced" methods in R
 categories: [Cal Poly, R, data science]
 image: cat-monsters-horst.png
+image-alt: "An orange cat sleeping while three green blob monsters give it hugs"
 draft: false
 ---
 
@@ -28,6 +29,7 @@ In this course, students dive deeper into the statistical computing concepts the
 #| echo: false
 #| fig-align: "center"
 #| out-width: "75%"
+#| fig-alt: "the hex sticker for the shiny package in R, the sticker has a cursive font with the package name (Shiny)"
 knitr::include_graphics("shiny.png")
 ```
 :::
@@ -41,6 +43,7 @@ knitr::include_graphics("shiny.png")
 #| echo: false
 #| fig-align: "center"
 #| out-width: "75%"
+#| fig-alt: "the hex sticker for the usethis package in R, the sticker has a robot whose name plate says usethis"
 knitr::include_graphics("usethis.png")
 ```
 :::
@@ -54,6 +57,7 @@ knitr::include_graphics("usethis.png")
 #| echo: false
 #| fig-align: "center"
 #| out-width: "75%"
+#| fig-alt: "the hex sticker for the rvest package in R, the sticker has a grain hook cutting wheat (in a field) as a clever take on the word harvest"
 knitr::include_graphics("rvest.png")
 ```
 :::
@@ -67,7 +71,7 @@ knitr::include_graphics("rvest.png")
 #| echo: false
 #| fig-align: "center"
 #| out-width: "75%"
-
+#| fig-alt: "the hex sticker for the gganimate package in R, the sticker has a line connecting six dots where each dot has small dots above it (signaling movement)"
 knitr::include_graphics("gganimate.png")
 ```
 :::

@@ -4,10 +4,10 @@ description: |
   a 5-unit course on working with data in Python, including various machine learning / statistical learning techniques
 categories: [Cal Poly, Python, data science]
 image: allison-horst-black.jpg
-draft: false
+image-alt: "A person sitting on the ground with a laptop on their lap. From the laptop emerges a rainbow of blues and purples into the sky."
 ---
 
-[{{< fa window-maximize >}} course website](https://atheobold.github.io/data-301/){.btn target=_blank} [{{< fa school >}} course catalog](https://catalog.calpoly.edu/search/?P=DATA+301){.btn target=_blank}
+[{{< fa window-maximize >}} course website](https://atheobold.github.io/data-301/){.btn target="_blank"} [{{< fa school >}} course catalog](https://catalog.calpoly.edu/search/?P=DATA+301){.btn target="_blank"}
 
 <br>
 
@@ -15,23 +15,23 @@ draft: false
 
 These materials accompany the 5-unit, 2-day, hands-on coding course, [DATA 301 - Introduction to Data Science](https://atheobold.github.io/data-301/), offered through the [Cross Disciplinary Minor in Data Science](https://statistics.calpoly.edu/data-science-minor).
 
-In this course, students learn how to work with data in Python using [`{pandas}`](https://pandas.pydata.org/), create visualizations using [`{plotnine}`](https://plotnine.org/), and fit various supervised and unsupervised learning models using [`{scikitlearn}`](https://scikit-learn.org/stable/). 
+In this course, students learn how to work with data in Python using [`{pandas}`](https://pandas.pydata.org/), create visualizations using [`{plotnine}`](https://plotnine.org/), and fit various supervised and unsupervised learning models using [`{scikitlearn}`](https://scikit-learn.org/stable/).
 
 <br>
 
-::: columns
+:::::::: columns
 ::: {.column width="30%"}
 ```{r}
 #| eval: true
 #| echo: false
 #| fig-align: "center"
 #| out-width: "75%"
+#| fig-alt: "The image for the pandas package in Python, the image has a blue panda climbing a yellow tree"
 knitr::include_graphics("pandas_logo.webp")
 ```
 :::
 
 ::: {.column width="3%"}
-
 :::
 
 ::: {.column width="30%"}
@@ -40,6 +40,8 @@ knitr::include_graphics("pandas_logo.webp")
 #| echo: false
 #| fig-align: "center"
 #| out-width: "50%"
+#| fig-alt: "the hext sticker for the plotnine package in Python, the sticker has a spaceship at the top emmitting a purple light down toward the ground. The purple light has assorted graphical objects inside it (boxplot, density plot)."
+
 knitr::include_graphics("plotnine.png")
 ```
 :::
@@ -53,13 +55,13 @@ knitr::include_graphics("plotnine.png")
 #| echo: false
 #| fig-align: "center"
 #| out-width: "75%"
+#| fig-alt: "The image for the scikitlearn package in Python, the image has a small blue circle next to a larger orange circle"
+
 knitr::include_graphics("scikit-learn.png")
 ```
 :::
-:::
-
-
+::::::::
 
 # When is this taught?
 
-At Cal Poly, this course is taught every quarter, typically alternating between Statistics faculty and Computer Science faculty. I expect to teach this course at some point in the academic year, so the materials should be updated at least once annually. 
+At Cal Poly, this course is taught every quarter, typically alternating between Statistics faculty and Computer Science faculty. I expect to teach this course at some point in the academic year, so the materials should be updated at least once annually.

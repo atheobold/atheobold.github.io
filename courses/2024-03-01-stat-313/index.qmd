@@ -3,7 +3,8 @@ title: "STAT 313 - Applied Experimental Design and Regression Models"
 description: |
   a 4-unit course on fitting and interpreting regression and ANOVA models, while also dedicating time toward learning how to prepare data for analysis in R
 categories: [Cal Poly, R, tidyverse, intermediate statistics]
-image: dragon-prediction-horst.png
+image: 313-hex.png
+image-alt: "the hex sticker designed for the STAT 313 course. The sticker has a scatterplot with colored points and regression lines. Above the regression lines the course number is printed."
 draft: false
 ---
 
@@ -26,6 +27,7 @@ In this course, students learn how to prepare data for analysis using the [`{tid
 #| echo: false
 #| fig-align: "center"
 #| out-width: "75%"
+#| fig-alt: "the hex sticker for the tidyverse package in R, the sticker has multi-colored hexagons surrounding the tidyverse text in the center"
 knitr::include_graphics("tidyverse-hex.png")
 ```
 :::
@@ -39,6 +41,7 @@ knitr::include_graphics("tidyverse-hex.png")
 #| echo: false
 #| fig-align: "center"
 #| out-width: "75%"
+#| fig-alt: "the hex sticker for the quarto software, the sticker is blue and says quarto with a small stop sign like symbol to the left of the text"
 knitr::include_graphics("quarto.png")
 ```
 :::
@@ -52,6 +55,7 @@ knitr::include_graphics("quarto.png")
 #| echo: false
 #| fig-align: "center"
 #| out-width: "75%"
+#| fig-alt: "the hex sticker for the infer package in R, the sticker has a tall forested black tree above the package name"
 knitr::include_graphics("infer-logo.png")
 ```
 :::
