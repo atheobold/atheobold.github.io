@@ -1,21 +1,41 @@
 ---
-image: media/full-body-shot.jpg
 toc: false
+title: Allison Shay Theobold
+image: media/full-body-shot.jpg
 editor: source
 about: 
-  template: jolla
-  image-shape: round
-  image-width: 25em
+  template: trestles
+links:
+  - text: "{{< ai google-scholar >}}"
+    href: https://scholar.google.com/citations?user=qpWkZH4AAAAJ&hl=en
+  - text: "{{< ai orcid >}}"
+    href: https://orcid.org/0000-0002-8092-6182
 ---
-
-</br>
 
 ::: {#bio}
 ::: {.cursive}
-Hello there! I'm Allison Theobold. Professionally, I love **teaching data science** skills and learning how to make my classroom **inclusive of a diverse set of learners**. Outside of work, I love being outside, cooking, watching womens basketball, traveling, and enjoying a good cup of coffee. Poke around to learn a bit more about me and my work!
-:::
-:::
+Hello there! I'm an Associate Professor in the Department of Statistics at 
+Cal Poly, in San Luis Obispo. {{< fa sun >}}
 
-::: {#landing-icons}
-[{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/allison-theobold-1ba0191a8/){target="_blank"} &nbsp; [{{< fa brands github title="github" >}}](https://github.com/atheobold){target="_blank"} &nbsp; [{{< fa envelope title="envelope" >}}](mailto:atheobol@calpoly.edu)
+Professionally, I love teaching data science skills, 
+learning how to make my classroom inclusive of a diverse set of learners
+{{< fa image-portrait >}}, and advocating for the importance of qualitative research {{< fa pencil >}}. Some of my recent projects include:
+
+- [Describing a student's trajectory for learning data science skills](https://www.tandfonline.com/doi/full/10.1080/26939169.2026.2616499)
+
+- [Outlining a framework for evaluating "inclusive" teaching](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2449159)
+
+- [Advocating for alternative grading in data science education](https://dl.acm.org/doi/10.1145/3587102.3588816)
+
+I'm also the lead PI on an [NSF grant](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2334988&HistoricalAwards=false) focused on crafting a pedagogy (and pedagogical materials) to equitably integrate pair programming in data science courses.
+
+Finally, I'm an enthusiastic supporter of undergraduate research! Some of my 
+student's recent projects include:
+
+- [Outlining the Landscape of Collaborative Programming Tools](https://virtual.oxfordabstracts.com/event/public/73693/submission/68)
+
+- [Investigating Emoji and Description Surveys as an Avenue for Increasing the Accuracy of Students' Responses to Classroom Surveys](https://virtual.oxfordabstracts.com/event/public/73693/submission/9)
+
+Outside of work, my wife and I have two fluffy cats {{< fa cat >}}. I love cooking, biking, coffee, traveling, and striving for balance. I love reading and am always trying to learn something new.
+:::
 :::

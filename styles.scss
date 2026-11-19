@@ -34,29 +34,40 @@ $code-color: $dark-blue; // inline code text color
 
 /* ELEMENT SELECTORS */
 
-h1, h2 {
+h1 {
   font-family: $satisfy;
-  font-weight: 1000;
-  letter-spacing: 2px;
+  font-weight: 500;
+  line-height: 2.5em;
 }
 
-/* ID selectors */
-
-// landing page text
-#bio {
-  font-size: 1.25em;
+h2 {
+  font-family: $satisfy;
+  font-weight: bold;
+  font-variant: small-caps;
 }
 
-// landing page icon size
-#landing-icons {
-  font-size: 1.5em;
-  color: $dark-blue;
+h3, h4, h5, h6 {
+  font-family: serif;
+  color: #999;
+  font-weight: normal;
+  font-variant: small-caps;
+  font-size: 12pt;
+}
+
+.flushright {
+  float: right;
+}
+
+.list-indent {
+  padding-left: 2rem;
+  font-size: 10pt;
 }
 
 /* CLASS SELECTORS */
 
 .cursive { 
   font-family: $satisfy;
+  font-size: 16pt;
 }
 
 .title {

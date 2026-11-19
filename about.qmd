@@ -52,5 +52,3 @@ Allison has contributed to integrating equity into statistics education by being
 
 ## Outside of Work...
 
-<!-- > Wife to a wonderful nurse {{< fa stethoscope >}} mom to two fluffy cats {{< fa cat >}} I live on the Central Coast of California {{< fa sun >}} I love to teach {{< fa school >}} expecially computing courses {{< fa code >}} I do qualitative research {{< fa pencil >}} on students' sense of belonging and identity {{< fa image-portrait >}} i love cooking {{< fa cook >}} biking {{< fa bicycle >}} wine {{< fa wine-bottle >}} coffee {{< fa mug-hot >}} traveling {{< fa plane-departure >}} and striving for balance {{< fa scale-balanced >}} I love reading and am always trying to learn something new {{< fa book-open-reader >}}
--->

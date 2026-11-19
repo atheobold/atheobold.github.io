@@ -13,14 +13,14 @@ website:
     left: 
       - text: "{{< fa house-user >}} Home"
         href: index.qmd
-      - text: "{{< fa address-card >}} About"
-        href: about.qmd
-      - text: "{{< fa laptop-code >}} Courses"
+      # - text: "{{< fa address-card >}} About"
+      #   href: about.qmd
+      - text: "{{< fa school >}} Courses"
         href: courses.qmd
       - text: "{{< fa chalkboard-user >}} Talks"
         href: talks.qmd
-      - text: "{{< fa chart-line >}} Lab"
-        href: https://atheobold.github.io/theobold-data-science-lab/
+      # - text: "{{< fa chart-line >}} Lab"
+      #   href: https://atheobold.github.io/theobold-data-science-lab/
       - text: "{{< fa paperclip >}} Vitae"
         href: media/cv-jan-7-2025.pdf
       - text: "{{< fa paper-plane >}} Contact"
@@ -45,6 +45,7 @@ format:
       #dark: solar
     toc: true
     page-layout: full
+    font-size: 16
     sidebar: false
     
 editor: visual
