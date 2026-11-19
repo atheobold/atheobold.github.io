@@ -1,7 +1,7 @@
 ---
 title: "Creating inclusive and supportive classrooms for every student"
 description: |
-  a talk about 
+  a workshop about creating inclusive classrooms with two segments---LGBTQ+ awareness and addressing microaggressions in the classroom
 author:
   - name: Nicole Dalzell
     url: https://nicolemdalzell.weebly.com/
@@ -26,13 +26,15 @@ image: diversity.jpeg
 
 # Abstract
 
-Many educators are committed to inclusive teaching practices, but creating inclusive classrooms necessitates being aware of different identities, perspectives, and experiences and how they intersect with student’s experiences in the classroom. However, curricular materials and / or pedagogical practices can diminish certain student’s identities, leaving them uninterested in the disciplines of statistics and data science. 
+Many educators are committed to inclusive teaching practices, but creating inclusive classrooms necessitates being aware of different identities, perspectives, and experiences and how they intersect with student’s experiences in the classroom. However, curricular materials and / or pedagogical practices can diminish certain student’s identities, leaving them uninterested in the disciplines of statistics and data science.
 
 This workshop consists of two segments. The first segment, LGBTQ+ Identities, will be dedicated to a “Safe Zone” style workshop where participants are introduced to core concepts of marginalized genders and sexualities. The second segment, Creating Inclusive Classrooms & Addressing Microaggressions, will focus on setting up classrooms which create inclusive spaces and ways to address microaggressions that arise. We will describe a variety of microaggressions that may occur (e.g., ableism, heterosexism, transnegativity), and discuss strategies for responding to microaggressions in the classroom. Research suggests practicing difficult conversations is essential for achieving an inclusive classroom environment.
 
 <center>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_gH3aDg0k5LEby3it4_xQAkCI9xY9oSJQoW065dJfzu5yYgTnSxDhRfIaMjli2u2jMYPraZbtG8Ij/embed?start=false&loop=false&delayms=3000" frameborder="0" width="750px," height="550px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_gH3aDg0k5LEby3it4_xQAkCI9xY9oSJQoW065dJfzu5yYgTnSxDhRfIaMjli2u2jMYPraZbtG8Ij/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="750px," height="550px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+
+</iframe>
 
 </center>
 
@@ -44,4 +46,4 @@ This workshop consists of two segments. The first segment, LGBTQ+ Identities, wi
 
 # Audience
 
-This workshop was presented at the [2023 US Conference on Teaching Statistics (USCOTS)](https://www.causeweb.org/cause/uscots/uscots23/w15-creating-inclusive-and-supportive-classrooms-every-student-room-106). the materials were created to support statistics and data science educators, however, the themes we explore are important for a variety of disciplines. 
+This workshop was presented at the [2023 US Conference on Teaching Statistics (USCOTS)](https://www.causeweb.org/cause/uscots/uscots23/w15-creating-inclusive-and-supportive-classrooms-every-student-room-106). the materials were created to support statistics and data science educators, however, the themes we explore are important for a variety of disciplines.
