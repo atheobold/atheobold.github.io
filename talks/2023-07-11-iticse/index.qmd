@@ -12,6 +12,7 @@ date: 2023-07-11
 slug: jsm2023
 categories: [equitable pedagogy, data science education]
 image: human-centered-design.jpg
+image-alt: "A geometric design with many different colors and shapes, but of no relevance to the content of the page."
 ---
 
 <center>

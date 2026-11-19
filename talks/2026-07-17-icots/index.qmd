@@ -12,6 +12,7 @@ date: 2026-07-17
 slug: icots2026
 categories: [data feminism]
 image: web-debois-graph.jpg
+image-alt: "A spiral graph by WEB Debois, the spiral depicts the value of household items and furnature owned by African Americans in Georgia over the years 1875 to 1899."
 ---
 
 <center>

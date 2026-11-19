@@ -20,6 +20,7 @@ date: 2023-05-31
 slug: uscots2023quarto
 categories: [R, Quarto]
 image: quarto-horst.png
+image-alt: "One penguin standing on the sholders of another penguin to look though a telescope, gazing at the blue quarto logo in the distance (looking like a moon)"
 ---
 
 # Abstract
@@ -42,4 +43,4 @@ Quarto is the next generation of R Markdown for publishing, including dynamic an
 
 # Audience
 
-This workshop was presented at the [2023 US Conference on Teaching Statistics (USCOTS)](https://www.causeweb.org/cause/uscots/uscots23/w04-reproducible-documents-presentations-and-websites-quarto-room-106). The materials associated with this workshop are geared toward anyone interested in learning about Quarto, what it is about, and how to use it to make documents, presentations and websites for their courses. 
+This workshop was presented at the [2023 US Conference on Teaching Statistics (USCOTS)](https://www.causeweb.org/cause/uscots/uscots23/w04-reproducible-documents-presentations-and-websites-quarto-room-106). The materials associated with this workshop are geared toward anyone interested in learning about Quarto, what it is about, and how to use it to make documents, presentations and websites for their courses.

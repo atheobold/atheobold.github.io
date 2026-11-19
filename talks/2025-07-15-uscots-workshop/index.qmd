@@ -12,6 +12,7 @@ date: 2026-07-15
 slug: uscots2025
 categories: [data science education; R]
 image: cran-R.jpg
+image-alt: "The R logo: a blue letter R with a gray circle around it."
 ---
 
 <center>
@@ -26,11 +27,10 @@ image: cran-R.jpg
 
 # Abstract
 
-This 1.5 day workshop will provide structured learning goals, course material resources, and skills training for instructors of intermediate to advanced R courses.  The target audience is educators who may have taught a first course in R or used it as supporting software in other statistics courses, and who are interested in teaching a second R course or beyond.  We will first establish a suggested common curriculum for intermediate R based on five areas:  Data types and sources beyond comma-separated files, advanced and dynamic data visualization, complexities of unclean or unstructured data, speed and efficiency concerns for large or repeated analyses, and reproducible workflow for long-term collaborative projects.  
-
+This 1.5 day workshop will provide structured learning goals, course material resources, and skills training for instructors of intermediate to advanced R courses. The target audience is educators who may have taught a first course in R or used it as supporting software in other statistics courses, and who are interested in teaching a second R course or beyond. We will first establish a suggested common curriculum for intermediate R based on five areas: Data types and sources beyond comma-separated files, advanced and dynamic data visualization, complexities of unclean or unstructured data, speed and efficiency concerns for large or repeated analyses, and reproducible workflow for long-term collaborative projects.
 
 # Audience
 
 This workshop was presented at the [2025 US Conference on Teaching Statistics (USCOTS)](https://www.causeweb.org/cause/uscots/uscots25/program/workshops/w01).
 
-In the workshop, we assumed attendees had R fluency at the level of a typical introductory course, such as the textbook R for Data Science (Wickham, Çetinkaya-Rundel, & Grolemund 2023); as well as familiarity with some scattered intermediate to advanced topics, interpreted broadly.  The focus of this workshop was not to provide direct training in intermediate R skills, but rather to prepare educators to deliver higher-level R courses.
+In the workshop, we assumed attendees had R fluency at the level of a typical introductory course, such as the textbook R for Data Science (Wickham, Çetinkaya-Rundel, & Grolemund 2023); as well as familiarity with some scattered intermediate to advanced topics, interpreted broadly. The focus of this workshop was not to provide direct training in intermediate R skills, but rather to prepare educators to deliver higher-level R courses.

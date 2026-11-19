@@ -12,11 +12,14 @@ date: 2024-08-10
 slug: jsm2024
 categories: [equitable pedagogy, assessment]
 image: stack-papers.jpg
+image-alt: "A stack of papers with paper clips joining bundles of papers."
 ---
 
 <center>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLiUEi5Z1tCtGJ1uPmzfzrL_bfCyJWrDT_GLngaigzc3IfabySnCxrPyQIEZ3thC8mu6VvuwYuoz2j/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLiUEi5Z1tCtGJ1uPmzfzrL_bfCyJWrDT_GLngaigzc3IfabySnCxrPyQIEZ3thC8mu6VvuwYuoz2j/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+
+</iframe>
 
 </center>
 
@@ -28,11 +31,10 @@ image: stack-papers.jpg
 
 # Abstract
 
-Various data technologies and automated approaches can assist with assessment, but care is needed to develop tools and practices that value and support the human learning experience, at the same time as optimising for efficiency and accuracy. Tools are also needed that support teachers to make consistent and valid judgments across very large quantities of responses. 
+Various data technologies and automated approaches can assist with assessment, but care is needed to develop tools and practices that value and support the human learning experience, at the same time as optimising for efficiency and accuracy. Tools are also needed that support teachers to make consistent and valid judgments across very large quantities of responses.
 
-The talks in this session present in research and practice within the emerging area of large scale automated-assisted assessment. Each speaker discusses their development of different innovative assessment practices and the opportunities, challenges, and rewards of using automation with respect to teaching and research. This presentation was the "discussion" coming at the end of the session, following the presentations by each of the four presenters. As such, the presentation focuses on summarizing key themes found within and between the talks, and situates these themes within the broader context of what it means to be a teacher. 
+The talks in this session present in research and practice within the emerging area of large scale automated-assisted assessment. Each speaker discusses their development of different innovative assessment practices and the opportunities, challenges, and rewards of using automation with respect to teaching and research. This presentation was the "discussion" coming at the end of the session, following the presentations by each of the four presenters. As such, the presentation focuses on summarizing key themes found within and between the talks, and situates these themes within the broader context of what it means to be a teacher.
 
 # Audience
 
-This presentation was presented at the [2024 Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2024/index.cfm). 
-
+This presentation was presented at the [2024 Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2024/index.cfm).

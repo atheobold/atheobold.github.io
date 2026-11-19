@@ -16,6 +16,7 @@ date: 2024-06-10
 slug: ecots2024decoder
 categories: [R, data science education]
 image: decode-r.jpeg
+image-alt: "A picture of a cypher machine. The machine is a dial that rotates around with different letters."
 ---
 
 <center>

@@ -22,6 +22,7 @@ date: 2023-06-01
 slug: uscots2023inclusion
 categories: [inclusion, equitable pedagogy, lgbtq]
 image: diversity.jpeg
+image-alt: "A graphic of the outlines of many people of different people, all with different colors of skin"
 ---
 
 # Abstract

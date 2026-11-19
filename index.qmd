@@ -2,14 +2,15 @@
 toc: false
 title: Allison Shay Theobold
 image: media/full-body-shot.jpg
+image-alt: "A full body image of Dr. Theobold standing in front of their office building. Dr. Theobold is wearing a stylish pink blazer and fun dragonfly earrings."
 editor: source
 about: 
   template: trestles
-links:
-  - text: "{{< ai google-scholar >}}"
-    href: https://scholar.google.com/citations?user=qpWkZH4AAAAJ&hl=en
-  - text: "{{< ai orcid >}}"
-    href: https://orcid.org/0000-0002-8092-6182
+  links:
+    - text: "{{< ai google-scholar size=3x >}}"
+      href: https://scholar.google.com/citations?user=qpWkZH4AAAAJ&hl=en
+    - text: "{{< ai orcid size=3x >}}"
+      href: https://orcid.org/0000-0002-8092-6182
 ---
 
 ::: {#bio}
@@ -18,8 +19,7 @@ Hello there! I'm an Associate Professor in the Department of Statistics at
 Cal Poly, in San Luis Obispo. {{< fa sun >}}
 
 Professionally, I love teaching data science skills, 
-learning how to make my classroom inclusive of a diverse set of learners
-{{< fa image-portrait >}}, and advocating for the importance of qualitative research {{< fa pencil >}}. Some of my recent projects include:
+learning how to make my classroom inclusive of a diverse set of learners, and advocating for the importance of qualitative research. Some of my recent projects include:
 
 - [Describing a student's trajectory for learning data science skills](https://www.tandfonline.com/doi/full/10.1080/26939169.2026.2616499)
 

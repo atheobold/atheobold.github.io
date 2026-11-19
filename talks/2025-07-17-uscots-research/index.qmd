@@ -12,6 +12,7 @@ date: 2025-07-17
 slug: uscots2026
 categories: [qualitative research, group collaborations]
 image: pair-programming-comic.png
+image-alt: "Two finger prints sitting side by side, each in front of a laptop."
 ---
 
 <center>

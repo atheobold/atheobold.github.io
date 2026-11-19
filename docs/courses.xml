@@ -10,7 +10,7 @@
 <atom:link href="https://atheobold.github.io/courses.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Thu, 19 Nov 2026 20:50:07 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 21:06:33 GMT</lastBuildDate>
 <item>
   <title>STAT 270 - Data Feminism</title>
   <link>https://atheobold.github.io/courses/2026-01-06-stat-270/</link>
@@ -37,7 +37,7 @@
   <category>Cal Poly</category>
   <category>data feminism</category>
   <guid>https://atheobold.github.io/courses/2026-01-06-stat-270/</guid>
-  <pubDate>Thu, 19 Nov 2026 20:50:07 GMT</pubDate>
+  <pubDate>Thu, 19 Nov 2026 21:06:33 GMT</pubDate>
   <media:content url="https://atheobold.github.io/courses/2026-01-06-stat-270/intersectionality.png" medium="image" type="image/png" height="50" width="144"/>
 </item>
 <item>
@@ -106,7 +106,7 @@
   <category>tidyverse</category>
   <category>intermediate statistics</category>
   <guid>https://atheobold.github.io/courses/2024-03-01-stat-313/</guid>
-  <pubDate>Thu, 19 Nov 2026 20:50:07 GMT</pubDate>
+  <pubDate>Thu, 19 Nov 2026 21:06:33 GMT</pubDate>
   <media:content url="https://atheobold.github.io/courses/2024-03-01-stat-313/313-hex.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -185,7 +185,7 @@
   <category>tidyverse</category>
   <category>data science</category>
   <guid>https://atheobold.github.io/courses/2023-08-20-stat-551/</guid>
-  <pubDate>Thu, 19 Nov 2026 20:50:07 GMT</pubDate>
+  <pubDate>Thu, 19 Nov 2026 21:06:33 GMT</pubDate>
   <media:content url="https://atheobold.github.io/courses/2023-08-20-stat-551/unicorn-confusion-horst.png" medium="image" type="image/png" height="131" width="144"/>
 </item>
 <item>
@@ -254,7 +254,7 @@
   <category>tidyverse</category>
   <category>data science</category>
   <guid>https://atheobold.github.io/courses/2024-08-23-stat-331/</guid>
-  <pubDate>Thu, 19 Nov 2026 20:50:07 GMT</pubDate>
+  <pubDate>Thu, 19 Nov 2026 21:06:33 GMT</pubDate>
   <media:content url="https://atheobold.github.io/courses/2024-08-23-stat-331/r-flowers.png" medium="image" type="image/png" height="85" width="144"/>
 </item>
 <item>
@@ -345,7 +345,7 @@
   <category>R</category>
   <category>data science</category>
   <guid>https://atheobold.github.io/courses/2024-03-01-stat-541/</guid>
-  <pubDate>Thu, 19 Nov 2026 20:50:07 GMT</pubDate>
+  <pubDate>Thu, 19 Nov 2026 21:06:33 GMT</pubDate>
   <media:content url="https://atheobold.github.io/courses/2024-03-01-stat-541/cat-monsters-horst.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
@@ -413,7 +413,7 @@
   <category>Python</category>
   <category>data science</category>
   <guid>https://atheobold.github.io/courses/2025-01-06-data-301/</guid>
-  <pubDate>Thu, 19 Nov 2026 20:50:07 GMT</pubDate>
+  <pubDate>Thu, 19 Nov 2026 21:06:33 GMT</pubDate>
   <media:content url="https://atheobold.github.io/courses/2025-01-06-data-301/allison-horst-black.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>

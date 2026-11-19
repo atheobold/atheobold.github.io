@@ -12,6 +12,7 @@ date: 2024-01-11
 slug: imsi2024
 categories: [R, qualitative analysis]
 image: code-speak.png
+image-alt: "Six speech bubbles in different shades of purple"
 ---
 
 <center>

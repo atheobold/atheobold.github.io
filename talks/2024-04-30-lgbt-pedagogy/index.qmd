@@ -16,6 +16,7 @@ date: 2024-04-30
 slug: ecots2024decoder
 categories: [lgbtq, equitable pedagogy, inclusion]
 image: pride-flag.jpg
+image-alt: "A pride flag"
 ---
 
 # Abstract

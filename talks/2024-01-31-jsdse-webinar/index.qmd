@@ -20,6 +20,7 @@ date: 2024-01-31
 slug: jsdsewebinar2024
 categories: [qualitative research, data science education, R]
 image: coding-code.jpg
+image-alt: "A screenshot of a computer code. The code has many different colors indicating different functions."
 ---
 
 # Abstract

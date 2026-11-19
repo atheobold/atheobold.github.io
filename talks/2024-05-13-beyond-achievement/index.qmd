@@ -20,6 +20,7 @@ date: 2024-05-13
 slug: jsm2023
 categories: [equitable pedagogy, assessment]
 image: axis-gutierrez.jpg
+image-alt: "Four cicles representing different aspects of equitable pedagogy. The blue circles (access, achievement) are connected by a blue line stating they represent the 'dominant axis'. The orange circles (power, identity) are connected by an orange line stating they represent the 'critical axis'."
 ---
 
 <center>
